@@ -1,6 +1,6 @@
 ---
-layout: home
 title: nogreathurry
+layout: home
 tagline: brutalist architectural shots
 ---
 
