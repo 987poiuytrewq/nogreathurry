@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+<section class="gallery">
+  {% for upload in site.uploads %}
+    <img src="{{ upload.url }}" />
+  {% endfor %}
+</section>
+
+
