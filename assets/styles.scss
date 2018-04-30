@@ -49,5 +49,20 @@ html {
         }
       }
     }
+
+    section.gallery {
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        li {
+
+        }
+      }
+      img {
+        height: 200px;
+        width: auto;
+      }
+    }
   }
 }
