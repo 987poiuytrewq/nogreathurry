@@ -2,6 +2,11 @@
 title: nogreathurry
 timezone: UTC
 collections:
+  photos:
+    title: Photos
+    output: true
+    permalink: "/gallery/:name"
+    layout: photo
   posts:
     title: Posts
     output: true
