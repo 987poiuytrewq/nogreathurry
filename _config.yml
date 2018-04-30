@@ -5,7 +5,7 @@ collections:
   photos:
     title: Photos
     output: true
-    permalink: /gallery/:name
+    permalink: "/gallery/:name"
     layout: photo
   posts:
     title: Posts
