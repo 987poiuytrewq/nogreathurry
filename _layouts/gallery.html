@@ -3,15 +3,14 @@ layout: default
 ---
 
 <section class="gallery">
-  <h1>{{ page.title }}</h1>
   <ul>
     {% for photo in site.photos %}
-      <li>
-        <a href="{{ photo.url }}">
+      <a href="{{ photo.url }}">
+        <li>
           <img src="{{ photo.image }}"/>
           <div>{{ photo.title }}</div>
-        </a>
-      </li>
+        </li>
+      </a>
     {% endfor %}
   </ul>
 </section>
