@@ -7,28 +7,29 @@
 html {
   height: 100%;
   width: 100%;
+  padding: 0;
+  margin: 0;
+
   body {
-    height: 100%;
-    width: 100%;
-    margin: 0;
+    margin: 20px;
     background-color: $background;
     color: $foreground;
     font-family: 'Exo', sans-serif;
 
     a {
       color: $foreground;
-      margin-right: 10px;
     }
 
     section.home {
       height: 100%;
       width: 100%;
-      // background: url('/assets/bridge.jpg');
-      background-size: cover;
-      background-position: left bottom;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
       header {
         padding: 20px;
+        text-align: center;
 
         h1 {
           margin: 0;
@@ -50,18 +51,51 @@ html {
       }
     }
 
+    header {
+
+      nav {
+        a {
+          vertical-align: middle;
+
+          &.home {
+            font-size: 30px;
+            border: none;
+          }
+        }
+
+        font-size: 20px;
+        margin: 20px 0;
+      }
+    }
+
     section.gallery {
       ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         li {
+          display: inline-block;
+          padding: 10px;
+          transition: background-color 300ms ease-in-out;
+          border-radius: 5px;
 
+          &:hover {
+            background-color: $selected-background;
+          }
         }
       }
       img {
         height: 200px;
         width: auto;
+        border-radius: 5px;
+      }
+    }
+
+    section.photo {
+      img {
+        height: 500px;
+        width: auto;
+        border-radius: 5px;
       }
     }
   }
