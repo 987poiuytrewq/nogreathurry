@@ -2,15 +2,27 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/magnific-popup.css">
+
 <section class="gallery">
   <ul>
     {% for photo in site.photos %}
-      <a href="{{ photo.url }}">
-        <li>
+      <li>
+        <a class="photo" href="{{ photo.image }}">
           <img src="{{ photo.image }}"/>
-          <div>{{ photo.title }}</div>
-        </li>
-      </a>
+        </a>
+        <div>{{ photo.title }}</div>
+      </li>
     {% endfor %}
   </ul>
 </section>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="/assets/jquery.magnific-popup.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    $('a.photo').magnificPopup({type:'image', closeBtnInside: true, gallery: { enabled: true }});
+  });
+</script>
