@@ -5,3 +5,4 @@ image: "/uploads/EDP1.jpg"
 thumbnail-image: "/uploads/EDP1.jpg"
 layout: photo
 ---
+

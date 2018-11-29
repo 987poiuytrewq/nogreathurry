@@ -5,3 +5,4 @@ image: "/uploads/VDG1.JPG"
 thumbnail-image: "/uploads/VDG1.JPG"
 layout: photo
 ---
+
