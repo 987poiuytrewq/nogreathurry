@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: default
+layout: contact
 ---
 
 You can contact me by using two cups with a very long string between them

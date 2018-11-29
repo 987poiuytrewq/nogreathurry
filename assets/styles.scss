@@ -3,6 +3,7 @@
 
 @import "colors";
 @import "typography";
+@import "media";
 
 html {
   height: 100%;
@@ -11,7 +12,11 @@ html {
   margin: 0;
 
   body {
-    margin: 20px;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
     background-color: $background;
     color: $foreground;
     font-family: 'Exo', sans-serif;
@@ -23,79 +28,211 @@ html {
     section.home {
       height: 100%;
       width: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      background-image: url("/uploads/Van3.jpg");
+      background-size: auto 100%;
+
+      @include desktop {
+        background-size: 100%;
+      }
 
       header {
-        padding: 20px;
+        padding-top: 100px;
+        background: rgba(0, 0, 0, 0.4);
+        height: 100%;
+        width: 100%;
+        display: block;
         text-align: center;
+        text-shadow: 0px 0px 5px $background;
 
         h1 {
           margin: 0;
-          font-size: 80px;
+          font-size: 50px;
           font-weight: 300;
+
+          @include desktop {
+            font-size: 80px;
+          }
         }
 
         h2 {
           margin: 0;
-          font-size: 30px;
+          font-size: 20px;
           font-weight: 300;
+
+          @include desktop {
+            font-size: 30px;
+          }
         }
 
         nav {
           font-weight: 300;
           font-size: 20px;
           margin-top: 20px;
+
+          @include desktop {
+            font-size: 20px;
+          }
         }
       }
+
     }
 
     header {
+      position:fixed;
+      top: 0;
+      width:100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px;
+      padding: 20px 10px;
+      background-color: $background;
+
+      @include desktop {
+        justify-content: left;
+      }
 
       nav {
         a {
           vertical-align: middle;
 
           &.home {
+            display: none;
             font-size: 30px;
             border: none;
+
+            @include desktop {
+              display: inline-block;
+            }
           }
         }
 
-        font-size: 20px;
-        margin: 20px 0;
       }
     }
 
-    section.gallery {
+    .container {
+      height: 100%;
+      width: 100%;
+      margin-top: 90px;
+      padding-bottom: 90px;
+
+      section.gallery {
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+
+          li {
+            display: inline-block;
+            padding: 10px;
+            transition: background-color 300ms ease-in-out;
+            border-radius: 5px;
+
+            &:hover {
+              background-color: $selected-background;
+            }
+          }
+          img {
+            width: 150px;
+            height: auto;
+            border-radius: 5px;
+
+            @include desktop {
+              width: 200px;
+              max-width: 100%;
+            }
+          }
+        }
+      }
+
+      section.photo {
+        height: 100%;
+        width: 100%;
+        padding: 0 20px;
+        text-align: center;
+
+        img {
+          max-height: 60%;
+          max-width: 80%;
+          border-radius: 5px;
+        }
+      }
+
+      section.blog {
+        height: 100%;
+        width: 100%;
+        padding: 0 20px;
+      }
+
+      section.about {
+        height: 100%;
+        width: 100%;
+        padding: 0 20px;
+
+        img {
+          display: inline-block;
+          max-height: 80%;
+          max-width: 90%;
+          border-radius: 5px;
+        }
+        .content {
+          padding: 0 20px;
+          display: inline-block;
+          vertical-align: top;
+        }
+      }
+
+      section.contact {
+        height: 100%;
+        width: 100%;
+        padding: 0 20px;
+      }
+    }
+
+    footer {
+      position:fixed;
+      bottom:0;
+      width:100%;
+      display: flex;
+      padding: 10px;
+      justify-content: center;
+      align-items: center;
+      background-color: $background;
+
+      @include desktop {
+        width: auto;
+        justify-content: left;
+        padding-bottom: 10px;
+      }
+
       ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
-        li {
-          display: inline-block;
-          padding: 10px;
-          transition: background-color 300ms ease-in-out;
-          border-radius: 5px;
 
-          &:hover {
-            background-color: $selected-background;
+        li {
+          float: left;
+          display: block;
+          margin-right: 20px;
+
+          img {
+            width: 30px;
+            vertical-align: middle;
+
+            @include desktop {
+              width: 20px;
+            }
+          }
+
+          span {
+            display:none;
+
+            @include desktop {
+              padding-left: 10px;
+              display: inline;
+            }
           }
         }
-      }
-      img {
-        height: 200px;
-        width: auto;
-        border-radius: 5px;
-      }
-    }
-
-    section.photo {
-      img {
-        height: 500px;
-        width: auto;
-        border-radius: 5px;
       }
     }
   }

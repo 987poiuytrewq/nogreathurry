@@ -2,15 +2,17 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/magnific-popup.css">
+
 <section class="gallery">
   <ul>
     {% for photo in site.photos %}
-      <a href="{{ photo.url }}">
-        <li>
+      <li>
+        <a class="photo" href="{{ photo.url }}">
           <img src="{{ photo.image }}"/>
-          <div>{{ photo.title }}</div>
-        </li>
-      </a>
+        </a>
+        <div>{{ photo.title }}</div>
+      </li>
     {% endfor %}
   </ul>
 </section>
