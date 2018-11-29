@@ -8,7 +8,7 @@ layout: default
   <ul>
     {% for photo in site.photos %}
       <li>
-        <a class="photo" href="{{ photo.image }}">
+        <a class="photo" href="{{ photo.url }}">
           <img src="{{ photo.image }}"/>
         </a>
         <div>{{ photo.title }}</div>
@@ -16,13 +16,3 @@ layout: default
     {% endfor %}
   </ul>
 </section>
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="/assets/jquery.magnific-popup.min.js"></script>
-
-<script>
-  $(document).ready(function() {
-    $('a.photo').magnificPopup({type:'image', closeBtnInside: true, gallery: { enabled: true }});
-  });
-</script>

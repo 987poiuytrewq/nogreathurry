@@ -1,6 +1,7 @@
 ---
 title: About
-layout: default
+layout: about
+image: /uploads/profile.jpg
 ---
 
 Hi my name is Robin
