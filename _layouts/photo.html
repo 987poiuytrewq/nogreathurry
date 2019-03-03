@@ -2,10 +2,35 @@
 layout: default
 ---
 
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+  {% if page.collection %}
+    {% assign  document = site[the_collection]  %}
+  {% endif %}
+{% for links in document  %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
 <section class="photo">
-  <h1>{{ page.title }}</h1>
-  <img src="{{ page.image }}">
-  <p>
-    {{ page.content }}
-  </p>
+  <div class="image">
+    <img src="{{ page.image }}">
+    <div class="prevnext">
+      <a href="{{ prevurl }}">Previous</a>
+      <a href="{{ nexturl }}">Next</a>
+    </div>
+  </div>
+  <div class="content">
+    <h1>{{ page.title }}</h1>
+    <p>
+      {{ page.content }}
+    </p>
+  </div>
 </section>

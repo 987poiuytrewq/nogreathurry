@@ -1,9 +1,9 @@
 ---
 ---
 
+@import "media";
 @import "colors";
 @import "typography";
-@import "media";
 
 html {
   height: 100%;
@@ -72,6 +72,15 @@ html {
           @include desktop {
             font-size: 20px;
           }
+
+          .navsection {
+            display: block;
+            margin-top: 10px;
+
+            @include desktop {
+              display: inline;
+            }
+          }
         }
       }
 
@@ -84,8 +93,8 @@ html {
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: 20px;
-      padding: 20px 10px;
+      font-size: 18px;
+      padding: 20px 5px;
       background-color: $background;
 
       @include desktop {
@@ -106,74 +115,110 @@ html {
             }
           }
         }
-
       }
     }
 
     .container {
       height: 100%;
       width: 100%;
-      margin-top: 90px;
-      padding-bottom: 90px;
+      margin-top: 70px;
+      margin-bottom: 100px;
+
+      @include desktop {
+        margin-top: 80px;
+      }
 
       section.gallery {
         ul {
           list-style-type: none;
-          margin: 0;
+          margin: 5px;
           padding: 0;
+          display: flex;
+          flex-wrap: wrap;
 
           li {
-            display: inline-block;
-            padding: 10px;
+            margin: 5px;
+            flex-basis: calc(50% - 10px);
             transition: background-color 300ms ease-in-out;
-            border-radius: 5px;
+            border-radius: 3px;
+
+            @include desktop {
+              flex-basis: auto;
+              flex-grow: 1;
+              width: 200px;
+            }
 
             &:hover {
               background-color: $selected-background;
             }
-          }
-          img {
-            width: 150px;
-            height: auto;
-            border-radius: 5px;
 
-            @include desktop {
-              width: 200px;
-              max-width: 100%;
+            a {
+              vertical-align: top;
+
+              img {
+                width: 100%;
+                height: auto;
+                border-radius: 3px;
+              }
             }
           }
+
         }
       }
 
       section.photo {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
         text-align: center;
 
-        img {
-          max-height: 60%;
-          max-width: 80%;
-          border-radius: 5px;
+        @include desktop {
+          text-align: left;
         }
-      }
 
-      section.blog {
-        height: 100%;
-        width: 100%;
-        padding: 0 20px;
+        .image {
+          padding: 5px;
+          max-width: 90%;
+
+          @include desktop {
+            display: inline-block;
+            max-width: auto;
+            max-height: 10%;
+          }
+
+          img {
+            width: 100%;
+            border-radius: 3px;
+          }
+
+          .prevnext {
+            a {
+              margin: 20px;
+            }
+          }
+        }
+
+        .content {
+          @include desktop {
+            padding: 200px 20px;
+            display: inline-block;
+            vertical-align: top;
+          }
+        }
       }
 
       section.about {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
 
         img {
           display: inline-block;
-          max-height: 80%;
+          max-height: 40%;
           max-width: 90%;
-          border-radius: 5px;
+          height: auto;
+          width: auto;
+          border-radius: 3px;
         }
         .content {
           padding: 0 20px;
@@ -185,7 +230,7 @@ html {
       section.contact {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
       }
     }
 

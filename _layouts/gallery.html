@@ -6,12 +6,11 @@ layout: default
 
 <section class="gallery">
   <ul>
-    {% for photo in site.photos %}
+    {% for photo in site[page.collection] %}
       <li>
         <a class="photo" href="{{ photo.url }}">
           <img src="{{ photo.image }}"/>
         </a>
-        <div>{{ photo.title }}</div>
       </li>
     {% endfor %}
   </ul>

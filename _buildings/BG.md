@@ -6,3 +6,4 @@ thumbnail-image: "/uploads/BG.jpg"
 layout: photo
 ---
 
+Here is some nice content about this photo
