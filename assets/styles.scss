@@ -96,6 +96,8 @@ html {
       font-size: 18px;
       padding: 20px 5px;
       background-color: $background;
+      opacity: 0.95;
+      z-index: 10;
 
       @include desktop {
         justify-content: left;
@@ -132,24 +134,19 @@ html {
         ul {
           list-style-type: none;
           margin: 5px;
-          padding: 0;
+          padding: 0 0 70px 0;
           display: flex;
           flex-wrap: wrap;
 
           li {
             margin: 5px;
             flex-basis: calc(50% - 10px);
-            transition: background-color 300ms ease-in-out;
             border-radius: 3px;
 
             @include desktop {
               flex-basis: auto;
               flex-grow: 1;
               width: 200px;
-            }
-
-            &:hover {
-              background-color: $selected-background;
             }
 
             a {
@@ -159,6 +156,11 @@ html {
                 width: 100%;
                 height: auto;
                 border-radius: 3px;
+                transition: opacity 300ms ease-in-out;
+
+                &:hover {
+                  opacity: 0.5;
+                }
               }
             }
           }
@@ -173,36 +175,55 @@ html {
         text-align: center;
 
         @include desktop {
+          height: auto;
+          width: auto;
           text-align: left;
         }
 
         .image {
-          padding: 5px;
-          max-width: 90%;
+          padding: 0 15px;
+          max-width: 100%;
 
           @include desktop {
+            margin-left: 80px;
             display: inline-block;
-            max-width: auto;
-            max-height: 10%;
+            max-width: 75vh;
           }
 
-          img {
+          > img {
             width: 100%;
             border-radius: 3px;
+
+            @include desktop {
+              width: auto;
+              height: 75vh;
+            }
           }
 
           .prevnext {
+            height: 48px;
+
             a {
-              margin: 20px;
+              text-decoration: none;
+              font-size: 32px;
+
+              &:first-child {
+                float: left;
+              }
+
+              &:last-child {
+                float: right;
+              }
             }
           }
         }
 
         .content {
           @include desktop {
-            padding: 200px 20px;
+            padding: 100px 20px;
             display: inline-block;
             vertical-align: top;
+            max-width: 75vh;
           }
         }
       }
@@ -211,15 +232,35 @@ html {
         height: 100%;
         width: 100%;
         padding: 0;
+        text-align: center;
 
-        img {
-          display: inline-block;
-          max-height: 40%;
-          max-width: 90%;
+        @include desktop {
           height: auto;
           width: auto;
-          border-radius: 3px;
+          text-align: left;
         }
+
+        .image {
+          padding: 0 15px;
+          max-width: 100%;
+
+          @include desktop {
+            display: inline-block;
+            max-width: auto;
+            max-height: 10px;
+          }
+
+          > img {
+            width: 100%;
+            border-radius: 3px;
+
+            @include desktop {
+              width: auto;
+              height: 75vh;
+            }
+          }
+        }
+
         .content {
           padding: 0 20px;
           display: inline-block;
@@ -231,18 +272,24 @@ html {
         height: 100%;
         width: 100%;
         padding: 0;
+
+        .content {
+          padding: 20px 5px;
+        }
       }
     }
 
     footer {
-      position:fixed;
-      bottom:0;
-      width:100%;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
       display: flex;
       padding: 10px;
       justify-content: center;
       align-items: center;
       background-color: $background;
+      opacity: 0.95;
+      z-index: 10;
 
       @include desktop {
         width: auto;
