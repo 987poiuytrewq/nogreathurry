@@ -1,9 +1,9 @@
 ---
 ---
 
+@import "media";
 @import "colors";
 @import "typography";
-@import "media";
 
 html {
   height: 100%;
@@ -72,6 +72,15 @@ html {
           @include desktop {
             font-size: 20px;
           }
+
+          .navsection {
+            display: block;
+            margin-top: 10px;
+
+            @include desktop {
+              display: inline;
+            }
+          }
         }
       }
 
@@ -84,9 +93,11 @@ html {
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: 20px;
-      padding: 20px 10px;
+      font-size: 18px;
+      padding: 20px 5px;
       background-color: $background;
+      opacity: 0.95;
+      z-index: 10;
 
       @include desktop {
         justify-content: left;
@@ -106,75 +117,150 @@ html {
             }
           }
         }
-
       }
     }
 
     .container {
       height: 100%;
       width: 100%;
-      margin-top: 90px;
-      padding-bottom: 90px;
+      margin-top: 70px;
+      margin-bottom: 100px;
+
+      @include desktop {
+        margin-top: 80px;
+      }
 
       section.gallery {
         ul {
           list-style-type: none;
-          margin: 0;
-          padding: 0;
+          margin: 5px;
+          padding: 0 0 70px 0;
+          display: flex;
+          flex-wrap: wrap;
 
           li {
-            display: inline-block;
-            padding: 10px;
-            transition: background-color 300ms ease-in-out;
-            border-radius: 5px;
-
-            &:hover {
-              background-color: $selected-background;
-            }
-          }
-          img {
-            width: 150px;
-            height: auto;
-            border-radius: 5px;
+            margin: 5px;
+            flex-basis: calc(50% - 10px);
+            border-radius: 3px;
 
             @include desktop {
+              flex-basis: auto;
+              flex-grow: 1;
               width: 200px;
-              max-width: 100%;
+            }
+
+            a {
+              vertical-align: top;
+
+              img {
+                width: 100%;
+                height: auto;
+                border-radius: 3px;
+                transition: opacity 300ms ease-in-out;
+
+                &:hover {
+                  opacity: 0.5;
+                }
+              }
             }
           }
+
         }
       }
 
       section.photo {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
         text-align: center;
 
-        img {
-          max-height: 60%;
-          max-width: 80%;
-          border-radius: 5px;
+        @include desktop {
+          height: auto;
+          width: auto;
+          text-align: left;
         }
-      }
 
-      section.blog {
-        height: 100%;
-        width: 100%;
-        padding: 0 20px;
+        .image {
+          padding: 0 15px;
+          max-width: 100%;
+
+          @include desktop {
+            margin-left: 80px;
+            display: inline-block;
+            max-width: 75vh;
+          }
+
+          > img {
+            width: 100%;
+            border-radius: 3px;
+
+            @include desktop {
+              width: auto;
+              height: 75vh;
+            }
+          }
+
+          .prevnext {
+            height: 48px;
+
+            a {
+              text-decoration: none;
+              font-size: 32px;
+
+              &:first-child {
+                float: left;
+              }
+
+              &:last-child {
+                float: right;
+              }
+            }
+          }
+        }
+
+        .content {
+          @include desktop {
+            padding: 100px 20px;
+            display: inline-block;
+            vertical-align: top;
+            max-width: 75vh;
+          }
+        }
       }
 
       section.about {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
+        text-align: center;
 
-        img {
-          display: inline-block;
-          max-height: 80%;
-          max-width: 90%;
-          border-radius: 5px;
+        @include desktop {
+          height: auto;
+          width: auto;
+          text-align: left;
         }
+
+        .image {
+          padding: 0 15px;
+          max-width: 100%;
+
+          @include desktop {
+            display: inline-block;
+            max-width: auto;
+            max-height: 10px;
+          }
+
+          > img {
+            width: 100%;
+            border-radius: 3px;
+
+            @include desktop {
+              width: auto;
+              height: 75vh;
+            }
+          }
+        }
+
         .content {
           padding: 0 20px;
           display: inline-block;
@@ -185,19 +271,25 @@ html {
       section.contact {
         height: 100%;
         width: 100%;
-        padding: 0 20px;
+        padding: 0;
+
+        .content {
+          padding: 20px 5px;
+        }
       }
     }
 
     footer {
-      position:fixed;
-      bottom:0;
-      width:100%;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
       display: flex;
       padding: 10px;
       justify-content: center;
       align-items: center;
       background-color: $background;
+      opacity: 0.95;
+      z-index: 10;
 
       @include desktop {
         width: auto;

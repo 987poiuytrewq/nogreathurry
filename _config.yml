@@ -2,8 +2,14 @@
 title: nogreathurry
 timezone: UTC
 collections:
-  photos:
-    title: Photos
+  abstract:
+    title: Abstract
+    output: true
+  buildings:
+    title: Buildings
+    output: true
+  people:
+    title: People
     output: true
   posts:
     title: Posts
@@ -11,4 +17,21 @@ collections:
   uploads:
     title: Uploads
     output: false
+defaults:
+- scope:
+    path: ''
+    type: buildings
+  values:
+    layout: photos
+- scope:
+    path: ''
+    type: people
+  values:
+    layout: photos
+- scope:
+    path: ''
+    type: abstract
+  values:
+    layout: photos
 permalink: pretty
+font: Roboto
