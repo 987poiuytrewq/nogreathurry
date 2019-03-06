@@ -19,19 +19,28 @@ collections:
     output: false
 defaults:
 - scope:
-    path: ''
+    path: ""
     type: buildings
   values:
     layout: photos
+    title: ""
+    image: ""
+    thumbnail: ""
 - scope:
-    path: ''
+    path: ""
     type: people
   values:
     layout: photos
+    title: ""
+    image: ""
+    thumbnail: ""
 - scope:
-    path: ''
+    path: ""
     type: abstract
   values:
     layout: photos
+    title: ""
+    image: ""
+    thumbnail: ""
 permalink: pretty
 font: Roboto
