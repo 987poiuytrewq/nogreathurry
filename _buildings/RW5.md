@@ -1,8 +1,6 @@
 ---
-title: RW5
-date: 2018-04-30 20:19:00 Z
+date: 2019-03-17 12:18:00 Z
 image: "/uploads/RW5.jpg"
-thumbnail-image: "/uploads/RW5.jpg"
+thumbnail-image: "/uploads/{RW5}_thumbnail.jpg"
 layout: photo
 ---
-

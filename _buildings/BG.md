@@ -1,9 +1,6 @@
 ---
-title: BG
-date: 2018-04-30 20:19:00 Z
+date: 2019-03-17 12:18:00 Z
 image: "/uploads/BG.jpg"
-thumbnail-image: "/uploads/BG.jpg"
+thumbnail-image: "/uploads/{BG}_thumbnail.jpg"
 layout: photo
 ---
-
-Here is some nice content about this photo
