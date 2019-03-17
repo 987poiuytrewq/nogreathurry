@@ -23,15 +23,24 @@ defaults:
     type: buildings
   values:
     layout: photos
+    title: ''
+    image: ''
+    thumbnail_image: ''
 - scope:
     path: ''
     type: people
   values:
     layout: photos
+    title: ''
+    image: ''
+    thumbnail_image: ''
 - scope:
     path: ''
     type: abstract
   values:
     layout: photos
+    title: ''
+    image: ''
+    thumbnail_image: ''
 permalink: pretty
 font: Roboto

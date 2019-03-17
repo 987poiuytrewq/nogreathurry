@@ -1,8 +1,8 @@
 ---
-title: VDG3
-date: 2018-04-30 20:19:00 Z
+title: Vdg3
+date: 2019-03-17 12:18:00 Z
 image: "/uploads/VDG3.jpg"
-thumbnail-image: "/uploads/VDG3.jpg"
+thumbnail_image: "/uploads/VDG3_thumbnail.jpg"
 layout: photo
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Van3
-date: 2018-04-30 20:19:00 Z
+date: 2019-03-17 12:18:00 Z
 image: "/uploads/Van3.jpg"
-thumbnail-image: "/uploads/Van3.jpg"
+thumbnail_image: "/uploads/Van3_thumbnail.jpg"
 layout: photo
 ---
 
