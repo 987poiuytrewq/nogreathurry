@@ -9,7 +9,7 @@ layout: default
     {% for photo in site[page.collection] %}
       <li>
         <a class="photo" href="{{ photo.url }}">
-          <img src="{{ photo.image }}"/>
+          <img src="{{ photo.thumbnail_image }}"/>
         </a>
       </li>
     {% endfor %}
