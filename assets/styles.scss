@@ -148,6 +148,7 @@ html {
               flex-basis: auto;
               flex-grow: 1;
               width: 200px;
+              max-width: 200px;
             }
 
             a {
@@ -277,7 +278,66 @@ html {
         padding: 0;
 
         .content {
-          padding: 20px 5px;
+          padding: 20px 10px;
+
+          @include desktop {
+            width: 600px;
+          }
+        }
+
+        .form {
+          font-size: 18px;
+          padding: 0 10px;
+
+          div {
+            padding: 5px 0;
+
+            > * {
+              margin: 10px 0;
+            }
+
+            input, textarea {
+              background-color: $foreground;
+              padding: 5px;
+              box-sizing: border-box;
+              border: none;
+              display: block;
+              height: 30px;
+              width: 100%;
+              font-family: inherit;
+
+              @include desktop {
+                width: 400px;
+              }
+
+              &[type=submit] {
+                font-size: 100%;
+                font-family: inherit;
+                background-color: $background;
+                color: $foreground;
+                height: auto;
+                padding: 10px;
+                border: 2px solid $foreground;
+                transition: border-color 300ms ease-in-out, color 300ms ease-in-out, background-color 300ms ease-in-out;
+                cursor: pointer;
+
+                &:hover {
+                  color: $selected-foreground;
+                  border: 2px solid $selected-foreground;
+                }
+
+                &:active {
+                  color: $background;
+                  background-color: $selected-foreground;
+                  border: 2px solid $selected-foreground;
+                }
+              }
+            }
+
+            textarea {
+              height: 100px;
+            }
+          }
         }
       }
     }

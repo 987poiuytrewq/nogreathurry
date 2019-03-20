@@ -6,4 +6,23 @@ layout: default
   <div class="content">
     {{ content }}
   </div>
+  <div class="form">
+    <form action="https://formspree.io/{{ site.email }}" method="POST">
+      <div>
+        <label for="name">name</label>
+        <input autocomplete="name" type="text" name="name"/>
+      </div>
+      <div>
+        <label for="name">email address</label>
+        <input autocomplete="email" type="email" name="email"/>
+      </div>
+      <div>
+        <label for="name">message</label>
+        <textarea rows="10" name="message"></textarea>
+      </div>
+      <div>
+        <input type="submit" value="send"/>
+      </div>
+    </form>
+  </div>
 </section>
