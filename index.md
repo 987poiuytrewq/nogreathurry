@@ -1,8 +1,5 @@
 ---
-title: |-
-  nogreathurry
-
-  photographs by robin maurice barr
+title: nogreathurry
 tagline: 
 layout: home
 ---
