@@ -6,3 +6,4 @@ thumbnail_image: "/uploads/Van1_thumbnail.jpg"
 layout: photo
 ---
 
+'Vancouver Style', Vancouver, Canada, September 2016.
