@@ -6,4 +6,4 @@ thumbnail_image: "/uploads/FullSizeRender_thumbnail.jpg"
 layout: photo
 ---
 
-Casa da Musica, Porto, Portugal.
+'Casa da Musica', Porto, Portugal.
