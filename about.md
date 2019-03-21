@@ -1,6 +1,6 @@
 ---
 title: About
-image: "/uploads/profile.jpg"
+image: "/uploads/IMG_4150.jpeg"
 layout: about
 ---
 
