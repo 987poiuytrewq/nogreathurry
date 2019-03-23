@@ -1,6 +1,6 @@
 ---
-title: Urban Abstracts
-collection: Urban Abstracts
+title: Abstracts
+collection: abstract
 layout: gallery
 ---
 
