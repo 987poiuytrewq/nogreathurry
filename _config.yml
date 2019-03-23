@@ -5,8 +5,8 @@ collections:
   abstract:
     title: Abstract
     output: true
-  buildings:
-    title: Buildings
+  architecture:
+    title: Architecture
     output: true
   people:
     title: People
