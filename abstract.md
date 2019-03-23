@@ -1,5 +1,5 @@
 ---
-title: Abstracts
+title: Urban Abstracts
 collection: abstract
 layout: gallery
 ---
