@@ -1,6 +1,6 @@
 ---
-title: Architectural Details
-collection: architectural details
+title: Buildings
+collection: buildings
 layout: gallery
 ---
 
