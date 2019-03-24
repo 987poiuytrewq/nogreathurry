@@ -1,6 +1,6 @@
 ---
 title: Buildings
-layout: gallery
 collection: buildings
+layout: gallery
 ---
 

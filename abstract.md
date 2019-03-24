@@ -1,6 +1,6 @@
 ---
 title: Abstract
-layout: gallery
 collection: abstract
+layout: gallery
 ---
 

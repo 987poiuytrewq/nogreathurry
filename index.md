@@ -1,6 +1,6 @@
 ---
 title: nogreathurry
+tagline: photographs by Robin Maurice Barr
 layout: home
-tagline: photos by Robin Maurice Barr
 ---
 
