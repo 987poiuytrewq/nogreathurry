@@ -1,6 +1,6 @@
 ---
 title: nogreathurry
 layout: home
-tagline: brutalist architectural shots
+tagline: photos by Robin Maurice Barr
 ---
 
