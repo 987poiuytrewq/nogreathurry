@@ -1,6 +1,6 @@
 ---
 title: About
-image: "/uploads/IMG_4150.jpeg"
+image: "/uploads/94D26ABA-182C-41B6-9CF3-F6F7FC0E0256.jpeg"
 layout: about
 ---
 
