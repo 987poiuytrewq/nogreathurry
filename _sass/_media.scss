@@ -1,7 +1,18 @@
-$mobile-width: 768px;
+$mobile-min-width: 480px;
+$mobile-max-width: 640px;
 
 @mixin desktop {
-  @media (min-width: #{$mobile-width}) {
+  @media only screen
+   and (min-device-width: #{$mobile-max-width}) {
+    @content;
+  }
+}
+
+@mixin landscape {
+  @media only screen
+   and (min-device-width: #{$mobile-min-width})
+   and (max-device-width: #{$mobile-max-width})
+   and (orientation: landscape) {
     @content;
   }
 }

@@ -32,12 +32,17 @@ html {
       background-size: auto 100%;
       background-position: right bottom;
 
+
+      @include landscape {
+        background-size: 100%;
+      }
+
       @include desktop {
         background-size: 100%;
       }
 
       header {
-        padding-top: 100px;
+        padding-top: 80px;
         background: rgba(0, 0, 0, 0.4);
         height: 100%;
         width: 100%;
@@ -94,7 +99,7 @@ html {
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: 18px;
+      font-size: 16px;
       padding: 20px 5px;
       background-color: $background;
       opacity: 0.95;
@@ -136,17 +141,32 @@ html {
           list-style-type: none;
           margin: 5px;
           padding: 0 0 70px 0;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -mox-box;
+          display: -ms-flexbox;
           display: flex;
+          -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 
           li {
             margin: 5px;
-            flex-basis: calc(50% - 10px);
+            -webkit-box-flex: 1 calc(50% - 10px);
+            -moz-box-flex: 1 calc(50% - 10px);
+            -webkit--flex: 1 calc(50% - 10px);
+            -moz--flex: 1 calc(50% - 10px);
+            -ms--flex: 1 calc(50% - 10px);
+            flex: 1 calc(50% - 10px);
             border-radius: 3px;
 
             @include desktop {
-              flex-basis: auto;
-              flex-grow: 1;
+              -webkit-box-flex: 1 auto;
+              -moz-box-flex: 1 auto;
+              -webkit--flex: 1 auto;
+              -moz--flex: 1 auto;
+              -ms--flex: 1 auto;
+              flex: 1 auto;
               width: 200px;
               max-width: 200px;
             }
@@ -206,8 +226,10 @@ html {
             height: 48px;
 
             a {
+              border: none;
               text-decoration: none;
               font-size: 32px;
+              color: $foreground;
 
               &:first-child {
                 float: left;
@@ -275,7 +297,7 @@ html {
       section.contact {
         height: 100%;
         width: 100%;
-        padding: 0;
+        padding: 0 0 120px 0;
 
         .content {
           padding: 20px 10px;
@@ -317,6 +339,8 @@ html {
                 color: $foreground;
                 height: auto;
                 padding: 10px;
+                -webkit-appearance: none;
+                border-radius: 0;
                 border: 2px solid $foreground;
                 transition: border-color 300ms ease-in-out, color 300ms ease-in-out, background-color 300ms ease-in-out;
                 cursor: pointer;
