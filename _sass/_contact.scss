@@ -1,0 +1,11 @@
+section.contact {
+  padding: 0 0 120px 0;
+
+  .content {
+    padding: 20px 0;
+
+    @include desktop {
+      width: 600px;
+    }
+  }
+}

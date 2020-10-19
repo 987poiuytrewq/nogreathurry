@@ -1,0 +1,48 @@
+footer {
+  display:none;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: $nav-background;
+  opacity: 0.95;
+  z-index: 10;
+
+  @include desktop {
+    display: flex;
+    width: 100%;
+    justify-content: left;
+    padding: 10px 40px;
+    padding-bottom: 10px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      float: left;
+      display: block;
+      margin-right: 20px;
+
+      img {
+        width: 30px;
+        vertical-align: middle;
+
+        @include desktop {
+          width: 20px;
+        }
+      }
+
+      span {
+        @include desktop {
+          padding-left: 10px;
+          display: inline;
+        }
+      }
+    }
+  }
+}

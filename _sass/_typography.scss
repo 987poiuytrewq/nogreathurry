@@ -4,10 +4,14 @@ nav {
     text-decoration: none;
     border-bottom: 2px solid $foreground;
     transition: border-color 300ms ease-in-out, color 300ms ease-in-out;
-    margin-right: 5px;
+    & + a {
+      margin-left: 5px;
+    }
 
     @include desktop {
-      margin-right: 20px;
+      & + a {
+        margin-left: 20px;
+      }
     }
 
     &:hover {
