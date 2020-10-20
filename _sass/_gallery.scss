@@ -1,4 +1,6 @@
 section.gallery {
+  padding: 20px 0 100px;
+
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 2fr));
@@ -24,5 +26,4 @@ section.gallery {
       }
     }
   }
-
 }

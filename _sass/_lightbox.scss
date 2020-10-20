@@ -5,30 +5,57 @@
   width: 100vw;
   height: 100vh;
   background: $lightbox-background;
-  padding: 20px;
+  padding: 40px 5px;
   visibility: hidden;
   opacity: 0;
   z-index: 20;
-  transition: visibility 0s, opacity 300ms ease-in-out;
+  transition: visibility 0s linear 300ms, opacity 300ms ease-in-out;
+
+  @include desktop {
+    padding: 10px;
+  }
 
   &.visible {
+    transition: visibility 0s linear, opacity 300ms ease-in-out;
     visibility: visible;
     opacity: 1;
   }
 
   .wrapper {
-    max-width: 50vw;
     margin: auto;
     text-align: center;
 
-    .close {
-      cursor: pointer;
-      text-align: right;
+    @include desktop {
+      max-width: 50vw;
+    }
+
+    nav {
+      display: flex;
+      padding: 0 0 10px;
+
+      a {
+        cursor: pointer;
+      }
+
+      & > * + * {
+        padding-left: 20px;
+      }
+
+      &.top {
+        justify-content: flex-end;
+      }
+
+      &.bottom {
+        justify-content: space-between;
+      }
     }
 
     .image img {
       width: 100%;
-      max-width: 80vh;
+
+      @include desktop {
+        max-width: 75vh;
+      }
     }
   }
 }
