@@ -1,0 +1,33 @@
+section.gallery {
+  padding: 30px 5px 50px;
+
+  @include desktop {
+    padding: 30px 20px 50px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 2fr));
+    grid-gap: 10px;
+
+    @include desktop {
+      grid-template-columns: repeat(auto-fill, minmax(200px, 2fr));
+    }
+
+    .item {
+      cursor: pointer;
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 2px;
+        transition: opacity 300ms ease-in-out;
+
+        &:hover {
+          opacity: 0.5;
+        }
+      }
+    }
+  }
+}

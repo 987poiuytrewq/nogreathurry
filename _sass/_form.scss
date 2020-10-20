@@ -1,0 +1,55 @@
+.form {
+  div {
+
+    input, textarea {
+      position: relative;
+      color: $foreground;
+      background-color: $input-background;
+      font-size: inherit;
+      font-family: inherit;
+      padding: 20px 5px;
+      margin: 5px 0 20px;
+      border: none;
+      border-radius: 2px;
+      display: block;
+      height: 30px;
+      width: 100%;
+
+      @include desktop {
+        width: 400px;
+      }
+
+      &:focus {
+        outline: none;
+      }
+
+      &[type=submit] {
+        font-size: 100%;
+        font-family: inherit;
+        background-color: $background;
+        color: $foreground;
+        height: auto;
+        padding: 10px;
+        -webkit-appearance: none;
+        border: 2px solid $foreground;
+        transition: border-color 300ms ease-in-out, color 300ms ease-in-out, background-color 300ms ease-in-out;
+        cursor: pointer;
+
+        &:hover {
+          color: $selected-foreground;
+          border: 2px solid $selected-foreground;
+        }
+
+        &:active {
+          color: $background;
+          background-color: $selected-foreground;
+          border: 2px solid $selected-foreground;
+        }
+      }
+    }
+
+    textarea {
+      height: 100px;
+    }
+  }
+}

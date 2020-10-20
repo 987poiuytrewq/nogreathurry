@@ -3,11 +3,8 @@ layout: default
 ---
 
 <section class="blog">
-  {% for post in site.posts %}
-    <div>
-      <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
-      <div>{{ post.content }}</div>
-    </div>
-  {% endfor %}
+  <div class="container">
+    {{ content | markdownify }}
+  </div>
 </section>
 

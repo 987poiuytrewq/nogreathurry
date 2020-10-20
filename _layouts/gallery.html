@@ -2,16 +2,72 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/magnific-popup.css">
-
 <section class="gallery">
-  <ul>
+  <div class="grid">
     {% for photo in site[page.collection] %}
-      <li>
-        <a class="photo" href="{{ photo.url }}">
-          <img src="{{ photo.thumbnail_image }}"/>
-        </a>
-      </li>
+      <div
+        class="item"
+        data-index="{{ forloop.index0 }}"
+        data-image="{{ photo.image }}"
+        data-content="{{ photo.content }}"
+      >
+        <img src="{{ photo.thumbnail_image }}"/>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 </section>
+
+<div class="lightbox">
+  <div class="wrapper">
+    <nav class="top">
+      <span><a class="close">close</a></span>
+    </nav>
+    <div class="image">
+      <img/>
+    </div>
+    <nav class="bottom">
+      <p><a class="prev">prev</a></p>
+      <div class="content"></div>
+      <p><a class="next">next</a></p>
+    </nav>
+  </div>
+</div>
+
+<script>
+  var lightbox = document.querySelector('.lightbox');
+  var lightboxImage = document.querySelector('.lightbox .image img');
+  var lightboxContent = document.querySelector('.lightbox .content');
+  var items = document.querySelectorAll('.gallery .item');
+
+  function showItem(index) {
+    var item = items[index];
+    lightboxImage.src = item.dataset.image;
+    lightboxContent.innerHTML = item.dataset.content;
+    lightbox.dataset.index = item.dataset.index;
+    lightbox.classList.add('visible');
+  }
+
+  document.querySelectorAll('.gallery .item')
+    .forEach(function (item) {
+      item.addEventListener('click', function () {
+        showItem(parseInt(item.dataset.index));
+      });
+    });
+
+  document.querySelector('.lightbox .next')
+    .addEventListener('click', function () {
+      var index = parseInt(lightbox.dataset.index);
+      showItem((items.length + index + 1) % items.length);
+    });
+
+  document.querySelector('.lightbox .prev')
+    .addEventListener('click', function () {
+      var index = parseInt(lightbox.dataset.index);
+      showItem((items.length + index - 1) % items.length);
+    });
+
+  document.querySelector('.lightbox .close')
+    .addEventListener('click', function () {
+      lightbox.classList.remove('visible');
+    });
+</script>

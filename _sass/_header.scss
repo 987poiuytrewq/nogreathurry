@@ -1,0 +1,102 @@
+header {
+  position:fixed;
+  top: 0;
+  width:100%;
+  font-size: 16px;
+  padding: 10px;
+  background-color: $nav-background;
+  opacity: 0.95;
+  z-index: 10;
+
+  @include desktop {
+    justify-content: left;
+    padding: 10px 40px;
+  }
+
+  nav {
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+
+    @include desktop {
+      justify-content: flex-start;
+    }
+
+    a {
+      vertical-align: middle;
+
+      &.home {
+        font-size: 30px;
+        border: none;
+      }
+
+      &.page {
+        display: none;
+
+        @include desktop {
+          display: inline-block;
+        }
+      }
+
+      &.menu, &.close {
+        display: none;
+
+        &.visible {
+          display: inline;
+        }
+
+        @include desktop {
+          display: none;
+
+          &.visible {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  .menu-modal {
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    top: 50px;
+    width: 100vw;
+    height: calc(100vh - 50px);
+    background: $nav-background;
+    z-index: 20;
+    opacity: 0;
+    transition: visibility 0s linear 300ms, opacity 300ms ease-in-out;
+
+    &.visible {
+      transition: visibility 0s linear, opacity 300ms ease-in-out;
+      visibility: visible;
+      opacity: 1;
+    }
+
+    nav {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 10px 0 0;
+
+      a {
+        margin: 5px 30px;
+      }
+    }
+
+    ul.social {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 0 0 20px;
+
+      li {
+        margin: 5px 0;
+      }
+    }
+  }
+}

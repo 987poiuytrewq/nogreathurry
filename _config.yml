@@ -3,19 +3,19 @@ title: nogreathurry
 timezone: UTC
 collections:
   abstract:
-    title: Abstract
+    title: abstract
     output: true
   buildings:
-    title: Buildings
+    title: buildings
     output: true
   people:
-    title: People
+    title: people
     output: true
   posts:
-    title: Posts
+    title: posts
     output: true
   uploads:
-    title: Uploads
+    title: uploads
     output: false
 defaults:
 - scope:

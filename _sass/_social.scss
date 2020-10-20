@@ -1,0 +1,21 @@
+ul.social {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    float: left;
+    display: block;
+    margin-right: 20px;
+
+    img {
+      width: 20px;
+      vertical-align: middle;
+    }
+
+    span {
+      padding-left: 10px;
+      display: inline;
+    }
+  }
+}

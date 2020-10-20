@@ -1,23 +1,30 @@
 ---
 title: nogreathurry
 layout: base
+stylesheets:
+- home
 ---
 
-<section class="home">
-  <header>
-    <h1>{{ page.title }}</h1>
-    <h2>{{ page.tagline }}</h2>
-    <nav>
-      <span class="navsection">
-        <a href="/buildings">buildings</a>
-        <a href="/people">people</a>
-        <a href="/abstract">abstract</a>
-      </span>
-      <span class="navsection">
-        <a href="/about">about</a>
-        <a href="/contact">contact</a>
-      </span>
-    </nav>
-  </header>
-</section>
+<main class="home">
+  <div class="fullscreen">
+    <div class="title-block">
+      <hgroup>
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.tagline }}</h2>
+      </hgroup>
+      <nav>
+        <span class="navsection">
+          <a href="/buildings">buildings</a>
+          <a href="/people">people</a>
+          <a href="/abstract">abstract</a>
+        </span>
+        <span class="navsection">
+          <a href="/blog">blog</a>
+          <a href="/about">about</a>
+          <a href="/contact">contact</a>
+        </span>
+      </nav>
+    </div>
+  </div>
+</main>
 

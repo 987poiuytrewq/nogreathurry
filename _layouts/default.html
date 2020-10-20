@@ -5,20 +5,73 @@ layout: base
 <header>
   <nav>
     <a class="home" href="/">nogreathurry</a>
-    <a href="/buildings">buildings</a>
-    <a href="/people">people</a>
-    <a href="/abstract">abstract</a>
-    <a href="/about">about</a>
-    <a href="/contact">contact</a>
+    <a class="page" href="/buildings">buildings</a>
+    <a class="page" href="/people">people</a>
+    <a class="page" href="/abstract">abstract</a>
+    <a class="page" href="/blog">blog</a>
+    <a class="page" href="/about">about</a>
+    <a class="page" href="/contact">contact</a>
+    <a class="menu visible">menu</a>
+    <a class="close">close</a>
   </nav>
+  <div class="menu-modal">
+    <nav class="pages">
+      <a href="/buildings">buildings</a>
+      <a href="/people">people</a>
+      <a href="/abstract">abstract</a>
+      <a href="/blog">blog</a>
+      <a href="/about">about</a>
+      <a href="/contact">contact</a>
+    </nav>
+    <ul class="social">
+      <li>
+        <a href="https://www.flickr.com/photos/robinmauricebarr/">
+          <img src="/assets/flickr.png"/><span>robinmauricebarr</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/nogreathurry/">
+          <img src="/assets/instagram.png"/><span>nogreathurry</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/nogreathurry_people/">
+          <img src="/assets/instagram.png"/><span>nogreathurry_people</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/robin.likes.abstracts/">
+          <img src="/assets/instagram.png"/><span>robin.likes.abstracts</span>
+        </a>
+      </li>
+    </ul>
+  </div>
 </header>
+
+<script>
+  var menuButton = document.querySelector('header nav .menu');
+  var closeButton = document.querySelector('header nav .close');
+  var menuModal = document.querySelector('header .menu-modal');
+
+  menuButton.addEventListener('click', function() {
+    menuButton.classList.remove('visible');
+    closeButton.classList.add('visible');
+    menuModal.classList.add('visible');
+  })
+
+  closeButton.addEventListener('click', function() {
+    menuButton.classList.add('visible');
+    closeButton.classList.remove('visible');
+    menuModal.classList.remove('visible');
+  })
+</script>
 
 <div class="container">
   {{ content }}
 </div>
 
 <footer>
-  <ul>
+  <ul class="social">
     <li>
       <a href="https://www.flickr.com/photos/robinmauricebarr/">
         <img src="/assets/flickr.png"/><span>robinmauricebarr</span>

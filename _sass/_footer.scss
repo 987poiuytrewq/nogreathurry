@@ -1,0 +1,21 @@
+footer {
+  display:none;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: $nav-background;
+  opacity: 0.95;
+  z-index: 10;
+
+  @include desktop {
+    display: flex;
+    width: 100%;
+    justify-content: left;
+    padding: 10px 40px;
+    padding-bottom: 10px;
+  }
+
+}

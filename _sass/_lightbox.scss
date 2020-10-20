@@ -1,0 +1,61 @@
+.lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: $lightbox-background;
+  padding: 40px 5px;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 20;
+  transition: visibility 0s linear 300ms, opacity 300ms ease-in-out;
+
+  @include desktop {
+    padding: 10px;
+  }
+
+  &.visible {
+    transition: visibility 0s linear, opacity 300ms ease-in-out;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .wrapper {
+    margin: auto;
+    text-align: center;
+
+    @include desktop {
+      max-width: 50vw;
+    }
+
+    nav {
+      display: flex;
+
+      a {
+        cursor: pointer;
+      }
+
+      & > * + * {
+        padding-left: 20px;
+      }
+
+      &.top {
+        justify-content: flex-end;
+        padding: 0 0 20px;
+      }
+
+      &.bottom {
+        justify-content: space-between;
+      }
+    }
+
+    .image img {
+      width: 100%;
+
+      @include desktop {
+        max-width: 75vh;
+      }
+    }
+  }
+}
