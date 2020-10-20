@@ -4,7 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#101010" />
-    <title>{{ page.title }}</title>
+    <title>
+      {% if page.title == "nogreathurry" %}
+        {{ page.title }}
+      {% else %}
+        {{ page.title }} · nogreathurry
+      {% endif %}
+    </title>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family={{ site.font }}:200,300,400,700" media="all">
     <link rel="stylesheet" href="/assets/styles.css">
     {% if layout.stylesheets %}
