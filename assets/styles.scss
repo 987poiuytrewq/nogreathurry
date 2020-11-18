@@ -15,3 +15,10 @@
 @import "photo";
 @import "about";
 @import "contact";
+
+
+main.home {
+  .fullscreen {
+    background-image: url("{{ site.home_image }}");
+  }
+}
