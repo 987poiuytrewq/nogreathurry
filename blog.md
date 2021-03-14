@@ -3,6 +3,8 @@ title: blog
 layout: blog
 ---
 
+I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020.
+
 Organisations
 
 A member of London Independent Photographers, November 2018 to date.
@@ -18,17 +20,16 @@ June 2019 - 'Thought Atlas'
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
 3 architectural photographs were exhibited in an exhibition by independent artists and photographers. Curated by Heloise Bergman.
 
-April 2020 - 'Strange Familiars' (Postponed to February 2021)
+April 2020 - 'Strange Familiars' (Postponed to October 2021)
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
 4 of my double exposure images were to be exhibited in an exhibition by the Central London Satellite group of London Independent Photographers. Curated by Krystina Stimakovits.
 
 November 2020 - 'LIP Chronicles'
-On-Line - Details to be added in due course.
-An image of mine, taken since lockdown, will be shown in this exhibition.
+On-Line. An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
 Other news:
 
-An image of mine was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series to be broadcast on 29th September 2020.  It will run for 6 weeks. The series aims to capture the spirit of 2020. 
+A photograph of mine was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book that was published in December 2020.
 
 
 
