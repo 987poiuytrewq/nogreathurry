@@ -5,7 +5,7 @@ collections:
   abstract:
     title: abstract
     output: true
-  architecture:
+  buildings:
     title: architecture
     output: true
   people:
