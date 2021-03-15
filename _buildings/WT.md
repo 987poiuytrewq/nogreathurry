@@ -17,4 +17,4 @@ thumbnail_image: "/uploads/WT_thumbnail.jpg"
 layout: photo
 ---
 
-Known as the 'Walkie Talkie' building, London. Completed 2014. Architect Rafael Viñoly. Photo August 2016. Photo: November 2016
+20 Fenchurch Street, London (2). The 'Walkie Talkie' building, London. Completed 2014. Architect Rafael Viñoly. Photo August 2016. Photo: November 2016
