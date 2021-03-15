@@ -1,5 +1,5 @@
 ---
-title: Arena Tower
+title: Arena Tower, London
 date: 2019-03-17 12:18:00 Z
 tags:
 - SOM
