@@ -6,4 +6,4 @@ thumbnail_image: "/uploads/VDG3_thumbnail.jpg"
 layout: photo
 ---
 
-Vasco Da Gama Bridge, Lisbon, Portugal. 
+The Vasco Da Gama bridge in Lisbon, Portugal.  Construction completed in 1998.  Designer:  Armando Rito. Photo taken December 2016.
