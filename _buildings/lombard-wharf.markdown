@@ -5,4 +5,4 @@ image: "/uploads/RW-3.jpg"
 thumbnail_image: "/uploads/RW-3-6019cd.jpg"
 ---
 
-Lombard Wharf, a residential development in South London.  Architects: Patel Taylor. Photo taken October 2019.
+Looking up at Lombard Wharf, a residential development in South London.  Architects: Patel Taylor. Photo taken October 2019.
