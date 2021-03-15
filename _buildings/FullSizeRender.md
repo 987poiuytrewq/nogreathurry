@@ -6,4 +6,4 @@ thumbnail_image: "/uploads/FullSizeRender_thumbnail.jpg"
 layout: photo
 ---
 
-'Casa da Musica', Porto, Portugal.
+This is the 'Casa da Musica', Porto, Portugal.Architect: Rem Koolhaas. Photograph taken in May 2017.

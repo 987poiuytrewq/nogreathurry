@@ -6,4 +6,4 @@ thumbnail_image: "/uploads/TS1_thumbnail.jpg"
 layout: photo
 ---
 
-'Brutalist Trafalgar', London.
+This is the Thistle Hotel Trafalgar Square. It was built in 1970. Architects: David AP Brookbank & Associates. Photograph taken in November 2016. 
