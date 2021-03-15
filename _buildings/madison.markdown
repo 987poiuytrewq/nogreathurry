@@ -5,4 +5,4 @@ image: "/uploads/madison%201000.jpg"
 thumbnail_image: "/uploads/Madison-be8cf7.jpg"
 ---
 
-An intentional camera movement image looking up at the Madison Building in Canary Wharf, London.  October 2020.
+An intentional camera movement image looking up at the Madison Building in Canary Wharf, London. Designed by 'Make Architects'. Photo taken October 2020.
