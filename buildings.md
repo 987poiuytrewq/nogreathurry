@@ -1,6 +1,6 @@
 ---
 title: architecture
-collection: architecture
+collection: buildings
 layout: gallery
 ---
 
