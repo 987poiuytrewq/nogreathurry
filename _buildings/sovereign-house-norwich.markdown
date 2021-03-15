@@ -12,6 +12,7 @@ tags:
 - Twentieth Century Society
 - "@nogreathurry"
 - Alan Cooke
+- con.structural.art
 image: "/uploads/Sovereign%20House,%20Norwich%201000.jpg"
 thumbnail_image: "/uploads/Sovereign%20House,%20Norwich%20300.jpg"
 ---
