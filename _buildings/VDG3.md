@@ -1,5 +1,5 @@
 ---
-title: Vasco Da Gama (B&W)
+title: The Vasco Da Gama Bridge
 date: 2019-03-17 12:18:00 Z
 tags:
 - Vasco Da Gama
