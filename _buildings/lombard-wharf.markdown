@@ -1,5 +1,5 @@
 ---
-title: Lombard Wharf
+title: Lombard Wharf, London
 date: 2020-09-28 15:23:00 Z
 tags:
 - con.structural.art
