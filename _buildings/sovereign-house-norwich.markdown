@@ -17,4 +17,4 @@ image: "/uploads/Sovereign%20House,%20Norwich%201000.jpg"
 thumbnail_image: "/uploads/Sovereign%20House,%20Norwich%20300.jpg"
 ---
 
-Derelict for many years and its future is uncertain. Built 1966/68. Architects: Alan Cooke Associates. Photo taken August 2020.
+Sovereign House, Norwich. Derelict for many years, its future uncertain. Built 1966/68. Architects: Alan Cooke Associates. Photo taken August 2020.
