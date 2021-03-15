@@ -19,4 +19,4 @@ thumbnail_image: "/uploads/Expo98_thumbnail.jpg"
 layout: photo
 ---
 
-This is the Expo '98 Portuguese National Pavilion, Lisbon, Portugal. It was designed by Alvaro Siza Viera. Photograph taken in December 2016.
+The Expo '98 Portuguese National Pavilion, Lisbon, Portugal. It was designed by Alvaro Siza Viera. Photograph taken in December 2016.
