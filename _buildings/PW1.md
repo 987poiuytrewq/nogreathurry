@@ -1,5 +1,5 @@
 ---
-title: New Providence Wharf
+title: New Providence Wharf, London
 date: 2019-03-17 12:18:00 Z
 tags:
 - Skidmore Owings & Merrill

@@ -1,6 +1,21 @@
 ---
-title: Brutalist Trafalgar
+title: Thistle Hotel Trafalgar Square, London
 date: 2019-03-17 12:18:00 Z
+tags:
+- Thistle Hotel Trafalgar Square
+- Thistle Hotel
+- brutal
+- brutalism
+- brutalist
+- "@nogreathurry"
+- Robin Maurice Barr
+- David AP Brookbank & Associate
+- con.structural.art
+- concrete architecture
+- C20
+- Twentieth Century Society
+- London
+- London Architecture
 image: "/uploads/TS1.jpg"
 thumbnail_image: "/uploads/TS1_thumbnail.jpg"
 layout: photo

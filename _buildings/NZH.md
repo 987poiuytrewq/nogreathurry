@@ -1,5 +1,5 @@
 ---
-title: New Zealand House
+title: New Zealand House, London
 date: 2019-03-17 12:18:00 Z
 tags:
 - C20

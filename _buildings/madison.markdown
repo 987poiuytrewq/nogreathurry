@@ -1,5 +1,5 @@
 ---
-title: Madison
+title: Madison Building, London
 date: 2021-03-14 21:42:00 Z
 tags:
 - con.structural.art
