@@ -1,6 +1,18 @@
 ---
 title: New Providence Wharf
 date: 2019-03-17 12:18:00 Z
+tags:
+- Skidmore Owings & Merrill
+- SOM
+- Docklands
+- Providence Tower
+- Ontario Tower
+- New Providence Wharf
+- con.structural.art
+- Robin Maurice Barr
+- "@nogreathurry"
+- London
+- London Architecture
 image: "/uploads/PW1.jpg"
 thumbnail_image: "/uploads/PW1_thumbnail.jpg"
 layout: photo
