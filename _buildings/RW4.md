@@ -6,4 +6,4 @@ thumbnail_image: "/uploads/RW4_thumbnail.jpg"
 layout: photo
 ---
 
-River Walk, London, November 2016
+Looking up at the curvaceous balconies of the 'Riverwalk' apartments, overlooking the River Thames at Westminster, in London. Architects: Stanton Williams. Photograph taken November 2016.
