@@ -1,5 +1,5 @@
 ---
-title: architecture
+title: buildings
 collection: buildings
 layout: gallery
 ---
