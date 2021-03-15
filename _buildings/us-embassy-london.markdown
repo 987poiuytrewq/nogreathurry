@@ -1,5 +1,5 @@
 ---
-title: US Embassy, London
+title: US Embassy & Vauxhall Tower, London
 date: 2021-03-15 21:04:00 Z
 tags:
 - US Embassy
