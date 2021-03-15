@@ -21,4 +21,4 @@ image: "/uploads/Bridges%20of%20Halifax%201000.jpg"
 thumbnail_image: "/uploads/Bridges%20of%20Halifax%20300.jpg"
 ---
 
-The Victorian iron and stone North Bridge, opened in 1871, architects John and James Fraser of Leeds, overshadowed by Burdock Way flyover, opened in 1973. Photo December 2020.
+Bridges of Halifax. The Victorian iron and stone North Bridge, opened 1871, architects John and James Fraser of Leeds, overshadowed by Burdock Way flyover, 1973. Photo December 2020.
