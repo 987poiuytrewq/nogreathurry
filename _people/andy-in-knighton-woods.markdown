@@ -10,7 +10,7 @@ tags:
 - London
 - ICM
 - intentional camera movement
-image: "/uploads/Andy%20ICM%201000.jpg"
+image: "/uploads/Andy%20in%20Knighton%20Woods%201000.jpg"
 thumbnail_image: "/uploads/Andy%20ICM%20300.jpg"
 ---
 
