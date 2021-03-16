@@ -29,7 +29,7 @@ On-Line. An image of mine, taken since lockdown, was shown in this exhibition an
 
 Other news:
 
-A photograph of mine was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book that was published in December 2020.
+A photograph of mine, the black and white hand at the window on my portraits page, was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book that was published in December 2020.
 
 
 
