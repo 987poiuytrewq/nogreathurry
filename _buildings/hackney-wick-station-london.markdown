@@ -13,8 +13,8 @@ tags:
 - Landolt + Brown
 - abstract
 - abstract architecture
-image: "/uploads/Hackney%20Wick%20Station%201000.jpg"
-thumbnail_image: "/uploads/Hackney%20Wick%20Station%20300.jpg"
+image: "/uploads/Hackney%20Wick%20Station%201000-d6e1d6.jpg"
+thumbnail_image: "/uploads/Hackney%20Wick%20Station%20300-317d1a.jpg"
 ---
 
 Hackney Wick Station, London. Architects: Landolt + Brown. Photo taken May 2019.
