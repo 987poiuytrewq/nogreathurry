@@ -13,8 +13,10 @@ tags:
 - Landolt + Brown
 - abstract
 - abstract architecture
+- X100F
+- Fujifilm
 image: "/uploads/Hackney%20Wick%20Station%201000-d6e1d6.jpg"
 thumbnail_image: "/uploads/Hackney%20Wick%20Station%20300-317d1a.jpg"
 ---
 
-Hackney Wick Station, London. Architects: Landolt + Brown. Photo taken May 2019.
+Hackney Wick Station, London. Architects: Landolt + Brown. Photo taken May 2019. Fujifilm X100F.
