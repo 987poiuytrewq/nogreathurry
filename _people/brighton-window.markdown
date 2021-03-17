@@ -10,8 +10,10 @@ tags:
 - street
 - strangers
 - "@nogreathurry_people"
+- X100F
+- Fujifilm
 image: "/uploads/Brighton%20Window%201000.jpg"
 thumbnail_image: "/uploads/Brighton%20Window%20300.jpg"
 ---
 
-Noughts & Crosses on a Brighton Pub window, photo taken June 2019. 
+Noughts & Crosses on a Brighton Pub window, photo taken June 2019. Fujifilm X100F.

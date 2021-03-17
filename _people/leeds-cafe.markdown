@@ -10,8 +10,9 @@ tags:
 - street
 - street photography
 - Robin Maurice Barr
+- iphone 6
 image: "/uploads/Leeds%20Cafe%201000.jpg"
 thumbnail_image: "/uploads/Leeds%20Cafe%20300.jpg"
 ---
 
-A view out from a Cafe in Leeds. February 2020.
+A view out from a Cafe in Leeds. February 2020. iPhone 6.
