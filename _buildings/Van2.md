@@ -17,4 +17,6 @@ thumbnail_image: "/uploads/Van2_thumbnail.jpg"
 layout: photo
 ---
 
-'Curved Air'. Vancouver, Canada.  September 2016
+'Curved Air'. Vancouver, Canada.  September 2016.
+
+Please message me if you know the name of this building and/or its architect.  Thank you.
