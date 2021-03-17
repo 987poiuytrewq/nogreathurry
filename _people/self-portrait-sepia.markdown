@@ -22,4 +22,4 @@ image: "/uploads/Sepia%20Self%20Portrait%201000.jpg"
 thumbnail_image: "/uploads/Sepia%20Self%20Portrait%20300.jpg"
 ---
 
-A self-portrait using the timer on my camera and a tripod, plus natural sunlight. February 2021.
+A self-portrait using the timer on my camera and a tripod, plus natural sunlight. Cragg Vale, West Yorkshire. February 2021.
