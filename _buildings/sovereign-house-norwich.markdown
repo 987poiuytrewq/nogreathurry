@@ -13,8 +13,10 @@ tags:
 - "@nogreathurry"
 - Alan Cooke
 - con.structural.art
+- X100F
+- Fujifilm
 image: "/uploads/Sovereign%20House,%20Norwich%201000.jpg"
 thumbnail_image: "/uploads/Sovereign%20House,%20Norwich%20300.jpg"
 ---
 
-Sovereign House, Norwich. Derelict for many years, its future uncertain. Built 1966/68. Architects: Alan Cooke Associates. Photo taken August 2020. 
+Sovereign House, Norwich. Derelict for many years, its future uncertain. Built 1966/68. Architects: Alan Cooke Associates. Photo taken August 2020. Fujifilm X100F.
