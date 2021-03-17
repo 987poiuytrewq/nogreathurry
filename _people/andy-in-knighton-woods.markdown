@@ -10,6 +10,8 @@ tags:
 - London
 - ICM
 - intentional camera movement
+- X100F
+- Fujifilm
 image: "/uploads/Andy%20in%20Knighton%20Woods%201000.jpg"
 thumbnail_image: "/uploads/Andy%20ICM%20300.jpg"
 ---
