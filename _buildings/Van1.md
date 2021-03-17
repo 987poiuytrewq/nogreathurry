@@ -18,3 +18,5 @@ layout: photo
 ---
 
 'Vancouver Style', Vancouver, Canada, September 2016.
+
+Please message me if you know the name of this building and/or its architect.  Thank you.
