@@ -1,5 +1,5 @@
 ---
-title: River Walk, London (2)
+title: River Walk, London
 date: 2019-03-17 12:18:00 Z
 tags:
 - Riverwalk
