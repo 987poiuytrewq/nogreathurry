@@ -20,4 +20,4 @@ image: "/uploads/Arlington%20House%201964%201000.jpg"
 thumbnail_image: "/uploads/Arlington%20House%201964%20300.jpg"
 ---
 
-Arlington House, Margate, England. Built 1964. Architects: Russell Diplock and Associates. Photo taken 2016. Canon 550D.
+Arlington House, Margate. Built 1964. Architects: Russell Diplock and Associates. Photo taken 2016. Canon 550D.
