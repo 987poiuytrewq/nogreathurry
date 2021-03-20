@@ -1,5 +1,5 @@
 ---
-title: Arlington House, Margate, 2016
+title: Arlington House, Margate
 date: 2021-03-20 15:14:00 Z
 tags:
 - con.structural.art
