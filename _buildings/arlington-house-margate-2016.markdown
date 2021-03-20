@@ -1,0 +1,21 @@
+---
+title: Arlington House, Margate, 2016
+date: 2021-03-20 15:14:00 Z
+tags:
+- con.structural.art
+- "@nogreathurry"
+- abstract architecture
+- brutal
+- brutalism
+- brutalist
+- Russell Diplock
+- Russell Diplock and Associates
+- Margate
+- Arlington House
+- C20
+- Twentieth Century Society
+image: "/uploads/Arlington%20House%201964%201000.jpg"
+thumbnail_image: "/uploads/Arlington%20House%201964%20300.jpg"
+---
+
+Arlington House, Margate, England. Built 1964. Architects: Russell Diplock and Associates. Photo taken 2016. Canon 550D.
