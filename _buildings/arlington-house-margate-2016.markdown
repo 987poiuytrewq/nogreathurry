@@ -1,6 +1,6 @@
 ---
 title: Arlington House, Margate
-date: 2021-03-20 15:14:00 Z
+date: 2020-03-20 15:14:00 Z
 tags:
 - con.structural.art
 - "@nogreathurry"
