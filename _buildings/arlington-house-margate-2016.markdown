@@ -14,6 +14,8 @@ tags:
 - Arlington House
 - C20
 - Twentieth Century Society
+- Canon
+- 550D
 image: "/uploads/Arlington%20House%201964%201000.jpg"
 thumbnail_image: "/uploads/Arlington%20House%201964%20300.jpg"
 ---
