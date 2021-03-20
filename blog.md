@@ -29,7 +29,11 @@ On-Line. An image of mine, taken since lockdown, was shown in this exhibition an
 
 Other news:
 
-A photograph of mine, the black and white hand at the window on my portraits page, was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book 'Rankin's 2020' that was published in December 2020. All profits from the book go to Mental Health UK.
+* A photograph of mine, the black and white hand at the window on my portraits page, was shortlisted by Rankin for this new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book 'Rankin's 2020' that was published in December 2020. https://www.2020rankin.com/the-book
+All profits from the book go to Mental Health UK.
+
+* I was interviewed in late 2020 by Tiffany (Tiff) Adepojo of Eastlondonlines, an independent local news website produced by journalism students at Goldsmiths, University of London.  The interview by Tiff took place on Zoom and was published on 9th November 2020 and appears on https://www.eastlondonlines.co.uk/2020/11/croydons-photography-club-boosts-members-across-the-uk/
+
 
 
 
