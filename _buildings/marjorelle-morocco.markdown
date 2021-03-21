@@ -15,4 +15,4 @@ image: "/uploads/IMG-20190316-WA0011.jpg"
 thumbnail_image: "/uploads/IMG-20190316-WA0011_thumbnail.jpg"
 ---
 
-Cubist villa designed by French architect, Paul Sinoir in the 1930s. Yves St Laurent lived here from the early 1980s until his death. Photo taken November 2018. Canon 550D.
+Stairway at a Cubist villa designed by French architect, Paul Sinoir in the 1930s. Yves St Laurent lived here from the 1980s until his death. Photo taken November 2018. Canon 550D.
