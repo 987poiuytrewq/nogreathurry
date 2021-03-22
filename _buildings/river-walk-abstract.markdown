@@ -1,5 +1,5 @@
 ---
-title: River Walk Abstract
+title: River Walk Apartments, London
 date: 2018-08-14 14:38:00 Z
 tags:
 - Riverwalk
