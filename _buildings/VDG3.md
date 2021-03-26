@@ -13,6 +13,8 @@ tags:
 - bnw
 - black and white
 - monochrome
+- Canon
+- 550D
 image: "/uploads/VDG3.jpg"
 thumbnail_image: "/uploads/VDG3_thumbnail.jpg"
 layout: photo
