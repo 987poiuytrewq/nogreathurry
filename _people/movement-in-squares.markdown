@@ -1,6 +1,6 @@
 ---
 title: Movement in Squares, London
-date: 2020-09-28 15:27:00 Z
+date: 2019-11-22 15:27:00 Z
 tags:
 - Hayward Gallery
 - Stanton Williams

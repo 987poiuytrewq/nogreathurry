@@ -1,6 +1,6 @@
 ---
 title: Brighton Window
-date: 2021-03-15 22:29:00 Z
+date: 2019-06-15 22:29:00 Z
 tags:
 - noughts & crosses
 - Brighton

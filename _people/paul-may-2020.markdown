@@ -1,6 +1,6 @@
 ---
-title: Paul, May 2020
-date: 2021-03-16 10:08:00 Z
+title: Through a Window Darkly...
+date: 2020-05-01 10:08:00 Z
 tags:
 - Rankin
 - SkyArts
@@ -13,6 +13,7 @@ tags:
 - portrait
 - Covid
 - X100F
+- through a window darkly
 image: "/uploads/Paul%201000.jpg"
 thumbnail_image: "/uploads/Paul%20300-8ec4c5.jpg"
 ---

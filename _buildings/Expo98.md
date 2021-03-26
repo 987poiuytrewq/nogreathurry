@@ -1,6 +1,6 @@
 ---
 title: Expo '98, Lisbon
-date: 2019-03-17 12:18:00 Z
+date: 2016-12-20 12:18:00 Z
 tags:
 - Expo '98
 - Portuguese National Pavilion

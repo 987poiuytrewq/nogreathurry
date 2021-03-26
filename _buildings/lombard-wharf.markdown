@@ -1,6 +1,6 @@
 ---
 title: Lombard Wharf, London
-date: 2020-09-28 15:23:00 Z
+date: 2019-10-28 15:23:00 Z
 tags:
 - con.structural.art
 - "@nogreathurry"
