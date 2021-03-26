@@ -1,6 +1,6 @@
 ---
 title: Madison Building, London
-date: 2021-03-14 21:42:00 Z
+date: 2020-10-11 09:42:00 Z
 tags:
 - con.structural.art
 - No Great Hurry

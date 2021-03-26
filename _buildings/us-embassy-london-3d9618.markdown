@@ -12,8 +12,13 @@ tags:
 - abstract architecture
 - abstract
 - con.structural.art
+- 550D
+- Canon
+- Architecture
+- London
+- London Architecture
 image: "/uploads/UBMBC%201000%20saturated.jpg"
 thumbnail_image: "/uploads/UBMBC%20300%20saturated.jpg"
 ---
 
-US Embassy, London, Architect Kieran Timberlake, with some subsequent post shoot editing. 
+US Embassy, London, Architect Kieran Timberlake, photo taken with some subsequent post shoot editing in February 2021. Canon 550D.
