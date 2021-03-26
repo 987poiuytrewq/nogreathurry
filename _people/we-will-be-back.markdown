@@ -1,6 +1,6 @@
 ---
 title: We Will Be Back
-date: 2021-03-17 12:34:00 Z
+date: 2020-07-07 12:34:00 Z
 tags:
 - Hebden Bridge
 - Robin Maurice Barr
@@ -19,4 +19,4 @@ image: "/uploads/We%20Will%20Be%20Back%201000.jpg"
 thumbnail_image: "/uploads/We%20Will%20Be%20Back%20300.jpg"
 ---
 
-Hebden Bridge Trades Club, West Yorkshire. 2020. Fujifilm X100F.
+Hebden Bridge Trades Club, West Yorkshire. July 2020. Fujifilm X100F.
