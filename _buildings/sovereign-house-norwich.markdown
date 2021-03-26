@@ -1,6 +1,6 @@
 ---
 title: Sovereign House, Norwich
-date: 2021-03-15 12:03:00 Z
+date: 2020-08-18 12:03:00 Z
 tags:
 - Norwich
 - No Great Hurry
