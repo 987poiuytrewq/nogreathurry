@@ -1,6 +1,6 @@
 ---
 title: Arena Tower, London
-date: 2019-03-17 12:18:00 Z
+date: 2016-10-20 12:18:00 Z
 tags:
 - SOM
 - Skidmore Owings & Merrill
@@ -10,9 +10,11 @@ tags:
 - Architectural Photography
 - abstract architecture
 - con.structural.art
+- 550D
+- Canon
 image: "/uploads/BT1.jpg"
 thumbnail_image: "/uploads/BT1_thumbnail.jpg"
 layout: photo
 ---
 
-Arena Tower, built 2016, Baltimore Wharf, London in London's Docklands. Architects: Skidmore Owings & Merrill,'SOM'. 
+Arena Tower, built 2016, Baltimore Wharf, London in London's Docklands. Architects: Skidmore Owings & Merrill,'SOM'. October 2016. Canon 550D.
