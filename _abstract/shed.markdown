@@ -18,4 +18,4 @@ image: "/uploads/new4square4right1000.jpg"
 thumbnail_image: "/uploads/new4square4right300.jpg"
 ---
 
-Four pane of a 6 pane shed window, an unintended abstract in each square. West Yorkshire, July 2020. Fujifilm X100F.
+Four panes of a 6 pane shed window, an unintended abstract in each square. West Yorkshire, July 2020. Fujifilm X100F.
