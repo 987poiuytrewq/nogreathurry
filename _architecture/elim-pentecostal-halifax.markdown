@@ -19,4 +19,4 @@ image: "/uploads/Elim%20Mural%20close%20up%20BNW%201000.jpg"
 thumbnail_image: "/uploads/Elim%20Mural%20close%20up%20BNW%20300.jpg"
 ---
 
-Detail of the concrete facade at Elim Pentecostal Church, Halifax. Erected 1972. Designed by CS Oldfield with RW Wands of Rainham Timber Engineering. Canon 550D.
+Detail of the concrete facade at Elim Pentecostal Church, Halifax. Erected 1972. Designed by CS Oldfield with RW Wands of Rainham Timber Engineering. Canon 550D. Photo taken April 2021.
