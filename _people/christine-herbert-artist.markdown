@@ -11,7 +11,7 @@ tags:
 - Christine Herbert
 - Robin Maurice Barr
 image: "/uploads/Christine%20Herbert%20for%20my%20website%201000.jpg"
-thumbnail_image: "/uploads/Christine%20Herbert%20for%20my%20website%20300.jpg"
+thumbnail_image: "/uploads/Christine%20Herbert%20for%20my%20website%20300-daf00f.jpg"
 ---
 
 A photo of abstract artist Christine Herbert taken during Hebden Bridge Open Studios, July 2021. Canon 550D
