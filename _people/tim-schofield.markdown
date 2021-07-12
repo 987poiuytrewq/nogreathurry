@@ -12,7 +12,7 @@ tags:
 - artist
 - Hebden Bridge
 - Hebden Bridge Open Studios
-image: "/uploads/Tim%20Schofield%20for%20my%20website%201000.jpg"
+image: "/uploads/Tim%20Schofield%20for%20my%20website%201000-0546e5.jpg"
 thumbnail_image: "/uploads/Tim%20Schofield%20for%20my%20website%20300-37b825.jpg"
 ---
 
