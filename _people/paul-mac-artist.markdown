@@ -1,5 +1,5 @@
 ---
-title: Paul MacDonald, Artist
+title: Paul MacDonald, Artist, 2021
 date: 2021-07-12 13:34:00 Z
 tags:
 - Paul Mac
