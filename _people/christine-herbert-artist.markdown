@@ -1,5 +1,5 @@
 ---
-title: Christine Herbert, Artist
+title: Christine Herbert, Artist, 2021
 date: 2021-07-12 13:23:00 Z
 tags:
 - 550D
