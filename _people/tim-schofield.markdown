@@ -1,5 +1,5 @@
 ---
-title: Tim Schofield
+title: Tim Schofield, Artist
 date: 2021-07-12 13:12:00 Z
 categories:
 - portrait
