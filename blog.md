@@ -7,14 +7,14 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 Organisations
 
-A member of London Independent Photographers, November 2018 to date.
+A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
 Exhibitions
 
 April 2019 - 'Factual Enigma'
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
-3 of my architectural images were exhibited in an exhibition by the Central London Satellite group of London Independent Photographers. Curated by Krystina Stimakovits.
+3 of my architectural images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
 
 June 2019 - 'Thought Atlas'
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
@@ -22,7 +22,7 @@ Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
 
 April 2020 - 'Strange Familiars' (Postponed to October 2021)
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
-4 of my double exposure images were to be exhibited in an exhibition by the Central London Satellite group of London Independent Photographers. Curated by Krystina Stimakovits.
+4 of my double exposure images were to be exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
 
 November 2020 - 'LIP Chronicles'
 On-Line. An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
