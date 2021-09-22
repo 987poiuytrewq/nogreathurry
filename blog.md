@@ -20,12 +20,15 @@ June 2019 - 'Thought Atlas'
 Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
 3 architectural photographs were exhibited in an exhibition by independent artists and photographers. Curated by Heloise Bergman.
 
-April 2020 - 'Strange Familiars' (Postponed to October 2021)
-Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
-4 of my double exposure images were to be exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
-
 November 2020 - 'LIP Chronicles'
 On-Line. An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
+
+October 8th 2021 to November 6th 2021 - 'Sight Lines' Gallery at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire. 
+This will be my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
+
+October 26th 2021 to October 31st 2021 - 'Strange Familiars' 
+Espacio Gallery, Bethnal Green Road (Shoreditch end), East London
+4 of my double exposure images will be exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
 Other news:
 
