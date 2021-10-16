@@ -29,7 +29,7 @@ On-Line.
 An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
 **October 13th 2021 to November 12th 2021
-Exhibition Name: 'Sight Lines'. **
+Exhibition Name: 'Sight Lines'**
 
 Exhibition now on at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This is my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
