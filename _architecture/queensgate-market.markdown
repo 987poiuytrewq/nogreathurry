@@ -5,4 +5,4 @@ image: "/uploads/Huddersfield%20Market%201000.jpg"
 thumbnail_image: "/uploads/Huddersfield%20Market%20300.jpg"
 ---
 
-Queensgate Market, Huddersfield, a grade two listed  brutalist market building. 1968-1970.
+Queensgate Market, Huddersfield, a grade two listed  brutalist market building. 1968-1970. Architect: Gwyn Roberts of J Seymour Harris Partnership. Photo taken 2021.
