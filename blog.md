@@ -10,7 +10,7 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
-**Exhibitions**
+**Past Exhibitions**
 
 **April 2019
 Exhibition Name: 'Factual Enigma'**
@@ -28,17 +28,26 @@ Exhibition Name: 'LIP Chronicles'**
 On-Line. 
 An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
+**October 26th 2021 to October 31st 2021 
+Exhibition Name: 'Strange Familiars'**
+
+This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
+4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
+
+CURRENT EXHIBITIONS
+
 **October 13th 2021 to November 12th 2021
 Exhibition Name: 'Sight Lines'**
 
 Exhibition now on at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This is my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
 
-**October 26th 2021 to October 31st 2021 
-Exhibition Name: 'Strange Familiars'**
+**November 2021
+Exhibition Name: 'LIP Chronicles, Life Goes On'**
+On-Line. 
+An image of mine, taken in August 2021, is being shown in this exhibition. See: https://www.lipchronicles.org/action#
 
-This will be at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
-4 of my in-camera double exposure images will be exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
+
 
 Other news:
 
