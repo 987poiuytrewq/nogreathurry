@@ -37,8 +37,8 @@ This is my first solo exhibition, showcasing some of my architectural images. Ho
 **October 26th 2021 to October 31st 2021 
 Exhibition Name: 'Strange Familiars'**
 
-This will be at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
-4 of my in-camera double exposure images will be exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
+This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
+4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
 Other news:
 
