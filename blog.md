@@ -44,7 +44,8 @@ This is my first solo exhibition, showcasing some of my architectural images. Ho
 
 **November 2021
 Exhibition Name: 'LIP Chronicles, Life Goes On'**
-On-Line. 
+On-Line.
+This is London Independent Photography's 33rd annual exhibition.  
 An image of mine, taken in August 2021, is being shown in this exhibition. See: https://www.lipchronicles.org/action#
 
 
