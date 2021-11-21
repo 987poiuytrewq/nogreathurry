@@ -57,6 +57,8 @@ All profits from the book go to Mental Health UK. ![Paul 300.jpg](/uploads/Paul%
 
 * I was interviewed in late 2020 by Tiffany (Tiff) Adepojo of Eastlondonlines, an independent local news website produced by journalism students at Goldsmiths, University of London.  The interview by Tiff took place on Zoom and was published on 9th November 2020 and appears on https://www.eastlondonlines.co.uk/2020/11/croydons-photography-club-boosts-members-across-the-uk/
 
+* In August 2021 I was interviewed by my friend Heather Martin for her new series of 'Artists' Tales' podcasts, launched in November 2021.  See www.artiststales.net/. I am in series 1, episode 2. 
+
 
 
 
