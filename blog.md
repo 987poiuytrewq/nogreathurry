@@ -34,19 +34,19 @@ Exhibition Name: 'Strange Familiars'**
 This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
-CURRENT EXHIBITIONS
-
-**October 13th 2021 to November 12th 2021
+**October 13th 2021 to November 19th 2021
 Exhibition Name: 'Sight Lines'**
 
-Exhibition now on at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
-This is my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
+Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
+This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
+
+CURRENT EXHIBITION
 
 **November 2021
 Exhibition Name: 'LIP Chronicles, Life Goes On'**
 On-Line.
 This is London Independent Photography's 33rd annual exhibition.  
-An image of mine, taken in August 2021, is being shown in this exhibition. See: https://www.lipchronicles.org/action#
+An image of mine, taken in August 2021, is shown in this exhibition. See: https://www.lipchronicles.org/action#
 
 
 
