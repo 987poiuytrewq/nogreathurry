@@ -40,14 +40,11 @@ Exhibition Name: 'Sight Lines'**
 Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
 
-CURRENT EXHIBITION
+**November to 31st December 2021
+Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
+The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
 
-**November 2021
-Exhibition Name: 'LIP Chronicles, Life Goes On'**
-On-Line.
-This is London Independent Photography's 33rd annual exhibition.  
-An image of mine, taken in August 2021, is shown in this exhibition. See: https://www.lipchronicles.org/action#
-
+![3044-4s.jpg](/uploads/3044-4s.jpg)
 
 
 Other news:
