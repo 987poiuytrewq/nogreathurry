@@ -44,7 +44,7 @@ This was my first solo exhibition, showcasing some of my architectural images. H
 Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
 The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
 
-![3044-4s.jpg](/uploads/3044-4s.jpg)
+![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
 
 
 Other news:
