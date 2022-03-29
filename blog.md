@@ -46,13 +46,9 @@ The following image of mine, taken in August 2021, was shown in this exhibition.
 
 ![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
 
-Future exhibition:
+**15th March to 27th March 2022 - Crouch End Exhibition
 
-15th March to 27th March 2022 - Crouch End Exhibition
-
-This will be held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA.
-Private View on Tuesday, 15th March from 7pm to 9pm.
-Opening Hours: Weekdays 1pm to 7pm - Weekends 1pm to 4pm.
+This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
 
 
 Other news:
