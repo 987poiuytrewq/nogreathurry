@@ -1,5 +1,5 @@
 ---
-title: Queensgate Market
+title: Queensgate Market, Huddersfield
 date: 2021-10-09 22:29:00 Z
 tags:
 - Queensgate
