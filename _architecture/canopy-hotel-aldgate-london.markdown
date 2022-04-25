@@ -17,4 +17,4 @@ image: "/uploads/Canopy%20abstract%20website%201000.jpg"
 thumbnail_image: "/uploads/Canopy%20abstract%20website%20300.jpg"
 ---
 
-Canopy Hotel by Hilton. Architects: ACME. Opened November 2021. Photo taken 2021. Fujifilm X100F.
+Canopy Hotel by Hilton. Architects: ACME. Opened 2021. Photo taken 2021. Fujifilm X100F.

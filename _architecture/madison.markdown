@@ -17,4 +17,4 @@ image: "/uploads/madison%201000.jpg"
 thumbnail_image: "/uploads/Madison-be8cf7.jpg"
 ---
 
-An intentional camera movement shot of the Madison Building, Canary Wharf, London. Designed by Make Architects. Photo October 2020. Fujifilm X100F.
+An intentional camera movement shot of the Madison Building, Canary Wharf, London. Designed by Make Architects. Photo 2020. Fujifilm X100F.

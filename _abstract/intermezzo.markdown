@@ -18,4 +18,4 @@ image: "/uploads/Blue%20Green%20abstract%20website%201000.jpg"
 thumbnail_image: "/uploads/Blue%20Green%20abstract%20website%20300.jpg"
 ---
 
-Unintended abstract found on a door in a London side street. Fujifilm X100F. March 2022.
+Unintended abstract found on a door in a London street. Fujifilm X100F. March 2022.
