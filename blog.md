@@ -55,6 +55,8 @@ Current Exhibition
 **2nd June to 26th June 2022
 ** Exhibition Name: Calderdale Tales
 ** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA
+** Preview: Wednesday, 1st June, 5pm to 7pm.
+** Opening times: Friday to Sunday, 11am to 4pm.
 
 I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
 
