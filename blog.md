@@ -50,6 +50,16 @@ The following image of mine, taken in August 2021, was shown in this exhibition.
 
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
 
+Current Exhibition 
+
+**2nd June to 26th June 2022
+** Exhibition Name: Calderdale Tales
+** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA
+
+I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
+
+![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
+
 
 Other news:
 
