@@ -10,6 +10,18 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
+**Current Exhibition** 
+
+**2nd June to 26th June 2022**
+** Exhibition Name: Calderdale Tales.
+** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA.
+** Preview: Wednesday, 1st June, 5pm to 7pm.
+** Opening times: Friday to Sunday, 11am to 4pm.
+
+I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
+
+![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
+
 **Past Exhibitions**
 
 **April 2019
@@ -40,28 +52,15 @@ Exhibition Name: 'Sight Lines'**
 Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
 
-**November to 31st December 2021
+**November to 31st December 2021**
 Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
 The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
 
 ![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
 
-**15th March to 27th March 2022 - Crouch End Exhibition
+**15th March to 27th March 2022 - Crouch End Exhibition**
 
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
-
-Current Exhibition 
-
-**2nd June to 26th June 2022
-** Exhibition Name: Calderdale Tales
-** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA
-** Preview: Wednesday, 1st June, 5pm to 7pm.
-** Opening times: Friday to Sunday, 11am to 4pm.
-
-I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
-
-![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
-
 
 Other news:
 
