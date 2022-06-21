@@ -22,7 +22,7 @@ I am showing the following image in this exhibition that celebrates life in Cald
 
 ![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
 
-20th June 2022 to 9th July 2022
+**20th June 2022 to 9th July 2022**
 
 ** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
 ** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
