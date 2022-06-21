@@ -27,6 +27,9 @@ I am showing the following image in this exhibition that celebrates life in Cald
 ** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
 ** Location: Hebden Bridge Town Hall, St. Georges's Street, Hebden Bridge, HX7 7BY.
 ** Opening Times: 
+Monday to Friday: 8:30am to 3pm.
+Saturday: 8:30am to 3pm
+Sunday: Closed
 
 I am showing the following image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
 
