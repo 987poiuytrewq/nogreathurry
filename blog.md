@@ -10,7 +10,7 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
-**Current Exhibition** 
+**Current Exhibitions** 
 
 **2nd June to 26th June 2022**
 ** Exhibition Name: Calderdale Tales.
@@ -21,6 +21,19 @@ A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
 
 ![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
+
+20th June 2022 to 9th July 2022
+
+** Exhibition Name: Hebden Bridge Open Studios 2022
+** Location: Hebden Bridge Town Hall, St. Georges's Street, Hebden Bridge, HX7 7BY.
+** Opening Times: 
+
+I am showing the following image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
+
+/uploads/Aerial%20Abstract%20website%20300.jpg
+
+
+
 
 **Past Exhibitions**
 
