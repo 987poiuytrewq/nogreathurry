@@ -35,7 +35,6 @@ I am showing the following image in this exhibition. The exhibition coincides wi
 
 
 
-
 **Past Exhibitions**
 
 **April 2019
