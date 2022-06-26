@@ -12,16 +12,6 @@ A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
 **Current Exhibitions** 
 
-**2nd June to 26th June 2022**
-** Exhibition Name: Calderdale Tales.
-** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA.
-** Preview: Wednesday, 1st June, 5pm to 7pm.
-** Opening times: Friday to Sunday, 11am to 4pm.
-
-I am showing the following image in this exhibition that celebrates life in Calderdale. Exhibits will include individual artwork by other local creatives and artisans in this part of West Yorkshire.
-
-![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
-
 **20th June 2022 to 9th July 2022**
 
 ** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
@@ -34,9 +24,6 @@ Sunday: Closed
 I am showing an abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
 
 (/uploads/Aerial%20Abstract%20website%201000.jpg)
-
-
-
 
 **Past Exhibitions**
 
@@ -77,6 +64,14 @@ The following image of mine, taken in August 2021, was shown in this exhibition.
 **15th March to 27th March 2022 - Crouch End Exhibition**
 
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
+
+**2nd June to 26th June 2022**
+** Exhibition Name: Calderdale Tales.
+** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA.
+
+I showed the following image in this exhibition that celebrated life in Calderdale. Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
+
+![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
 
 Other news:
 
