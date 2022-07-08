@@ -23,7 +23,7 @@ Sunday: Closed
 
 I am showing an abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
 
-![Aerial Abstract website 300.jpg](/uploads/Aerial%20Abstract%20website%20300.jpg)
+(![Aerial Abstract website 300.jpg](/uploads/Aerial%20Abstract%20website%20300.jpg))
 
 **Past Exhibitions**
 
