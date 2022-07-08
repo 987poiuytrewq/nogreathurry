@@ -21,9 +21,10 @@ Monday to Friday: 8:30am to 3pm.
 Saturday: 9am to 3pm
 Sunday: Closed
 
-I am showing an abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
+I am showing a 50x50 cm abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
 
-(![Aerial Abstract website 300.jpg](/uploads/Aerial%20Abstract%20website%20300.jpg))
+/uploads/Aerial%20Abstract%20website%201000.jpg
+
 
 **Past Exhibitions**
 
