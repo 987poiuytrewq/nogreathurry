@@ -12,7 +12,7 @@ A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
 **Current Exhibitions** 
 
-**20th June 2022 to 9th July 2022**
+**20th June 2022 to 18th July 2022**
 
 ** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
 ** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
@@ -23,7 +23,7 @@ Sunday: Closed
 
 I am showing an abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios across town from 1st to 3rd July 2022. 85 local artists and makers will be opening their studios and/or showing work in the Town Hall Exhibition. 
 
-(/uploads/Aerial%20Abstract%20website%201000.jpg)
+![Aerial Abstract website 300.jpg](/uploads/Aerial%20Abstract%20website%20300.jpg)
 
 **Past Exhibitions**
 
