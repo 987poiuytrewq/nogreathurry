@@ -16,8 +16,9 @@ A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
 **Exhibition Name: 'Open Mind'
 
-**Location: 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
+**Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
 ** Opening Times: 11am to 4pm - Tuesday to Saturday.
+** Gallery Website: www.OpenGallery.info
 
 **I am showing a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
 
