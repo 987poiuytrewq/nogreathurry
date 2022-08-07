@@ -10,18 +10,17 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
-**Current Exhibitions** 
+**Future Exhibition** 
 
-**20th June 2022 to 18th July 2022**
+**18th August to 3rd September 2022**
 
-** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
-** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
-** Opening Times: 
-Monday to Friday: 8:30am to 3pm.
-Saturday: 9am to 3pm
-Sunday: Closed
+**Exhibition Name: 'Open Mind'
 
-I am showing a 50x50 cm abstract image in this exhibition. The exhibition coincides with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
+**Location: 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
+** Opening Times: 11am to 4pm - Tuesday to Saturday.
+
+**I am showing a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
+
 
 **Past Exhibitions**
 
@@ -70,6 +69,13 @@ This was held by the Crouch End Satellite Group of London Independent Photograph
 I showed the following image in this exhibition that celebrated life in Calderdale. Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
 
 ![Structural Expressionism at Withens Clough.jpg](/uploads/Structural%20Expressionism%20at%20Withens%20Clough.jpg)
+
+**20th June 2022 to 18th July 2022**
+
+** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
+** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
+
+I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
 
 Other news:
 
