@@ -10,18 +10,6 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
-**Future Exhibition** 
-
-**18th August to 3rd September 2022**
-
-**Exhibition Name: 'Open Mind'
-
-**Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
-** Opening Times: 11am to 4pm - Tuesday to Saturday.
-** Gallery Website: www.OpenGallery.info
-
-**I am showing a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
-
 
 **Past Exhibitions**
 
@@ -77,6 +65,18 @@ I showed the following image in this exhibition that celebrated life in Calderda
 ** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
 
 I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
+
+**18th August to 3rd September 2022**
+
+**Exhibition Name: 'Open Mind'
+
+**Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
+** Opening Times: 11am to 4pm - Tuesday to Saturday.
+** Gallery Website: www.OpenGallery.info
+
+**I showed a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
+
+My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
 
 Other news:
 
