@@ -14,4 +14,4 @@ image: "/uploads/Orange%20Tod-3.jpg"
 thumbnail_image: "/uploads/Orange%20Tod-3.jpg"
 ---
 
-An abstract. Much overpainted and weathered graffiti and random marks, before the next layers. Seen on a wall in West Yorkshire.  
+Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire.  

@@ -17,4 +17,4 @@ image: "/uploads/Orange%20Tod-2-5b73d7.jpg"
 thumbnail_image: "/uploads/Orange%20Tod-2.jpg"
 ---
 
-Weathered paint and random marks on a West Yorkshire wall.
+Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire.
