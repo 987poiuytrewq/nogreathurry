@@ -14,4 +14,4 @@ image: "/uploads/Rock%20Nook%20Abstract%20Hoarding.jpg"
 thumbnail_image: "/uploads/Rock%20Nook%20Abstract%20Hoarding.jpg"
 ---
 
-Weathered hoarding on a derelict building in West Yorkshire.
+Weathered hoarding on a derelict building in West Yorkshire. 2020
