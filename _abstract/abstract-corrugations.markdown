@@ -14,4 +14,4 @@ image: "/uploads/Abstract%20Corrugations.jpg"
 thumbnail_image: "/uploads/Abstract%20Corrugations.jpg"
 ---
 
-Weathered and discoloured garage doors.
+Weathered and discoloured garage doors. 2022
