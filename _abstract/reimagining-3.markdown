@@ -15,4 +15,4 @@ image: "/uploads/Minimal%20Tod.jpg"
 thumbnail_image: "/uploads/Minimal%20Tod.jpg"
 ---
 
-Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire.  
+Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire.2022 
