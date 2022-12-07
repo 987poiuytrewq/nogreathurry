@@ -1,5 +1,5 @@
 ---
-title: Flaking Paint (2)
+title: Black.Red.Square.
 date: 2022-12-07 23:10:00 Z
 tags:
 - "@robin.likes.abstracts"
