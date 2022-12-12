@@ -1,5 +1,5 @@
 ---
-title: Reimagining (1)
+title: Reimaginings (1)
 date: 2022-12-07 22:18:00 Z
 categories:
 - Abstract

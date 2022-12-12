@@ -1,5 +1,5 @@
 ---
-title: Reimagining (3)
+title: Reimaginings (3)
 date: 2022-12-07 22:34:00 Z
 tags:
 - "@robin.likes.abstracts"
