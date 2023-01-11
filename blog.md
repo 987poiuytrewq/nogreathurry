@@ -10,6 +10,13 @@ Organisations
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
+**Current News**
+
+* From January to March 2023 I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
+
+* In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. Those photographs are due to be hung in their newly renovated communal areas towards the end of January/beginning of February 2023.  More details to follow.
+
+
 
 **Past Exhibitions**
 
