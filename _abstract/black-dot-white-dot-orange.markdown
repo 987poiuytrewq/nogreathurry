@@ -14,4 +14,4 @@ image: "/uploads/Black%20White%20Orange.jpg"
 thumbnail_image: "/uploads/Black%20White%20Orange.jpg"
 ---
 
-A path to an underground carpark on a sunny day. 2022
+A path to an underground carpark in Brighton on a sunny day. 2022
