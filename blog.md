@@ -19,7 +19,7 @@ From 1st March 2023 until further notice.
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
 * Exhibition Name: Jupiter Asset Management
-Location: Zigzag Building From January to March 2023.
+Location: Zigzag Building From January to July 2023.
 
 I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
 
@@ -112,7 +112,7 @@ In 2022 I received a commission to take site specific photographs of a Mansion B
 
 * Picturing High Streets - January 2023
 
-My 'Something Special' image of a closed-up shot, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was long-listed for an England-wide outdoor exhibition. More details to follow in March 2023 if I get further....
+My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was long-listed for an England-wide outdoor exhibition. More details to follow in March 2023 if I get further....
 
 * Hebden Bridge Open Studios 2022 Art Trail - July 2022.
 
