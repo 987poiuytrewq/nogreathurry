@@ -5,7 +5,7 @@ layout: blog
 
 I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020.
 
-Organisations
+Organisations:
 
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
@@ -23,14 +23,11 @@ Location: Zigzag Building From January to March 2023.
 
 I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
 
-* Installation in Brighton, East Sussex. 
-In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs are due to be hung in their newly renovated communal areas towards the Spring of 2023.  More details to follow.
+**21st March 2023 to 2nd April 2023**
+
+This is an exhibition by the Crouch End Satellite Group of London Independent Photography. It's at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I am showing 4 Saul Leiter inspired photographs. 
 
 Future Exhibitions
-
-**20th March 2023 to 3rd April 2023**
-
-This will be held by the Crouch End Satellite Group of London Independent Photography at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I have yet to print the photos....
 
 **22nd May 2023 to 12th June 2023
 
@@ -117,6 +114,7 @@ All profits from the book go to Mental Health UK. ![Paul 300.jpg](/uploads/Paul%
 
 * In August 2021 I was interviewed by my friend Heather Martin for her new series of 'Artists' Tales' podcasts, launched in November 2021.  See www.artiststales.net/. I am in series 1, episode 2. 
 
-
+* Installation in Brighton, East Sussex. 
+In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023
 
 
