@@ -110,6 +110,10 @@ Other news (newest first):
 * Installation in Brighton, East Sussex. March 2023 onwards. 
 In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
 
+* Picturing High Streets - January 2023
+
+My 'Something Special' image of a closed-up shot, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was long-listed for an England-wide outdoor exhibition. More details to follow in March 2023 if I get further....
+
 * Hebden Bridge Open Studios 2022 Art Trail - July 2022.
 
 Two of my 'Fraisthorpe' double exposure photographs, previously exhibited at Espacio Gallery in Shoreditch, London, appeared in the front windows of Valli Opticians in the centre of Hebden Bridge as part of the 2022 Art Trail. 
