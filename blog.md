@@ -10,7 +10,7 @@ Organisations:
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 
-**Current Exhibitions and Instalations**
+**Current Exhibitions and Installations**
 
 * Exhibition Name: 'Reimaginings'
 Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. 
