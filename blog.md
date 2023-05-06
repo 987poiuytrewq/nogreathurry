@@ -5,7 +5,7 @@ layout: blog
 
 I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020.
 
-Organisations:
+**Organisations**
 
 **A member of London Independent Photography, November 2018 to date.
 **A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
@@ -13,23 +13,24 @@ Organisations:
 
 **Current Exhibitions and Installations**
 
-* Exhibition Name: 'Mill Town Arts' 
+* From 10th May 2023 to 12th June 2023
+* Exhibition Name: **Mill Town Arts** 
 * Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
-From 10th May 2023 to 12th June 2023
 
 I'm taking part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
 
 ______________________________________________________________
 
-* Exhibition Name: 'Reimaginings'
-Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. 
 From 1st March 2023 onwards.
+* Exhibition Name: **Reimaginings**
+* Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
 ______________________________________________________________
 
-* Picturing High Streets - March 2023 to June 2023
+March 2023 to June 2023
+**Picturing High Streets** 
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
 
@@ -37,37 +38,38 @@ _______________________________________________________________
 
 **Future Exhibitions**
 
-** Exhibition Name: 'Portrait Exhibition'.
-**June 2023
-**Location: The Glasgow Gallery of Photography CIC, 57 Glassford Street, Glasgow, G1 1UG.
+** Exhibition Name: **Portrait Exhibition**
+* June 2023
+*Location: The Glasgow Gallery of Photography CIC
+57 Glassford Street, Glasgow, G1 1UG.
 
 _______________________________________________________________
 **Past Exhibitions**
 
-**April 2019
-Exhibition Name: 'Factual Enigma'**
+**April 2019**
+Exhibition Name: **Factual Enigma**
 Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 3 of my architectural images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
 
-**June 2019
-Exhibition Name: 'Thought Atlas'**
+**June 2019**
+Exhibition Name: **Thought Atlas**
 Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 
 3 architectural photographs were exhibited in an exhibition by independent artists and photographers. Curated by Heloise Bergman.
 
-**November 2020
-Exhibition Name: 'LIP Chronicles'**
+**November 2020**
+Exhibition Name: **LIP Chronicles**
 On-Line. 
 An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
-**October 26th 2021 to October 31st 2021 
-Exhibition Name: 'Strange Familiars'**
+**October 26th 2021 to October 31st 2021** 
+Exhibition Name: **Strange Familiars**
 
 This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
-**October 13th 2021 to November 19th 2021
-Exhibition Name: 'Sight Lines'**
+**October 13th 2021 to November 19th 2021**
+Exhibition Name: **Sight Lines**
 
 Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
@@ -78,7 +80,9 @@ The following image of mine, taken in August 2021, was shown in this exhibition.
 
 ![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
 
-**15th March to 27th March 2022 - Crouch End Exhibition**
+**15th March to 27th March 2022**
+
+**Crouch End Annual Exhibition**
 
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
 
