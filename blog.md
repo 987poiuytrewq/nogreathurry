@@ -9,23 +9,27 @@ Organisations:
 
 A member of London Independent Photography, November 2018 to date.
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. 
 
 **Current Exhibitions and Installations**
 
+* Exhibition Name: Mill Town Arts 
+* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
+From 10th May 2023 to 12th June 2023
+
+I'm taking part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
+
+______________________________________________________________
+
 * Exhibition Name: 'Reimaginings'
 Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. 
-From 1st March 2023 until further notice.
+From 1st March 2023 onwards.
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
-* Exhibition Name: Jupiter Asset Management
-Location: Zigzag Building From January to July 2023.
+* Picturing High Streets - March 2023 to June 2023
 
-I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
-
-**21st March 2023 to 2nd April 2023**
-
-This is an exhibition by the Crouch End Satellite Group of London Independent Photography. It's at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I am showing 4 Saul Leiter inspired photographs. 
+My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
 
 Future Exhibitions
 
@@ -103,16 +107,20 @@ My photograph was featured on the cover of the exhibition catalogue that is avai
 **Exhibition Name: 'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
+* January to March 2023
+* Exhibition Name: Jupiter Asset Management
+* Location: Zigzag Building, Victoria Street, London.
 
+I took part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition was of abstract photography and two of my images were shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
+
+**21st March 2023 to 2nd April 2023**
+
+This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs. 
 
 Other news (newest first):
 
 * Installation in Brighton, East Sussex. March 2023 onwards. 
 In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
-
-* Picturing High Streets - January 2023
-
-My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was long-listed for an England-wide outdoor exhibition. More details to follow in March 2023 if I get further....
 
 * Hebden Bridge Open Studios 2022 Art Trail - July 2022.
 
