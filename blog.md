@@ -7,9 +7,9 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 Organisations:
 
-A member of London Independent Photography, November 2018 to date.
-A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
-Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. 
+**A member of London Independent Photography, November 2018 to date.
+**A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+**Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. 
 
 **Current Exhibitions and Installations**
 
@@ -27,15 +27,20 @@ From 1st March 2023 onwards.
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
+______________________________________________________________
+
 * Picturing High Streets - March 2023 to June 2023
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
+
+_______________________________________________________________
 
 **Future Exhibitions**
 
 **June 2023
 **Location: The Glasgow Gallery of Photography CIC, 57 Glassford Street, Glasgow, G1 1UG.
 
+_______________________________________________________________
 **Past Exhibitions**
 
 **April 2019
@@ -105,7 +110,7 @@ My photograph was featured on the cover of the exhibition catalogue that is avai
 **Exhibition Name: 'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
-** January to March 2023
+** January to March 2023**
 * Exhibition Name: Jupiter Asset Management
 * Location: Zigzag Building, Victoria Street, London.
 
@@ -117,7 +122,11 @@ This was the annual exhibition by the Crouch End Satellite Group of London Indep
 
 Other news (newest first):
 
-* Installation in Brighton, East Sussex. March 2023 onwards. 
+* April 2023 - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
+
+* April 2023 - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
+
+* March 2023 onwards - Installation in Brighton, East Sussex.  
 In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
 
 * Hebden Bridge Open Studios 2022 Art Trail - July 2022.
@@ -128,7 +137,7 @@ Two of my 'Fraisthorpe' double exposure photographs, previously exhibited at Esp
 
 * I was interviewed in late 2020 by Tiffany (Tiff) Adepojo of Eastlondonlines, an independent local news website produced by journalism students at Goldsmiths, University of London.  The interview by Tiff took place on Zoom and was published on 9th November 2020 and appears on https://www.eastlondonlines.co.uk/2020/11/croydons-photography-club-boosts-members-across-the-uk/
 
-* A photograph of mine was shortlisted by Rankin for his new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book 'Rankin's 2020' that was published in December 2020. https://www.2020rankin.com/the-book
+* A photograph of mine was chosen by Rankin for his new Rankin's 2020 SkyArts television series broadcast on 29th September 2020.  It ran for 6 weeks. The series captured the spirit of 2020. That image also appeared in the book 'Rankin's 2020' that was published in December 2020. https://www.2020rankin.com/the-book
 All profits from the book go to Mental Health UK. ![Paul 300.jpg](/uploads/Paul%20300.jpg)
 
 
