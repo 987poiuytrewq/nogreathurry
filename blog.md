@@ -5,7 +5,7 @@ layout: blog
 
 I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020.
 
-Organisations:
+**Organisations**
 
 **A member of London Independent Photography, November 2018 to date.
 **A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
@@ -13,23 +13,24 @@ Organisations:
 
 **Current Exhibitions and Installations**
 
-* Exhibition Name: 'Mill Town Arts' 
+* From 10th May 2023 to 12th June 2023
+* Exhibition Name: **Mill Town Arts** 
 * Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
-From 10th May 2023 to 12th June 2023
 
 I'm taking part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
 
 ______________________________________________________________
 
-* Exhibition Name: 'Reimaginings'
-Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. 
 From 1st March 2023 onwards.
+* Exhibition Name: **Reimaginings**
+* Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
 ______________________________________________________________
 
-* Picturing High Streets - March 2023 to June 2023
+March 2023 to June 2023
+**Picturing High Streets** 
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
 
@@ -37,37 +38,38 @@ _______________________________________________________________
 
 **Future Exhibitions**
 
-** Exhibition Name: 'Portrait Exhibition'.
-**June 2023
-**Location: The Glasgow Gallery of Photography CIC, 57 Glassford Street, Glasgow, G1 1UG.
+** Exhibition Name: **Portrait Exhibition**
+* June 2023
+*Location: The Glasgow Gallery of Photography CIC
+57 Glassford Street, Glasgow, G1 1UG.
 
 _______________________________________________________________
 **Past Exhibitions**
 
-**April 2019
-Exhibition Name: 'Factual Enigma'**
+**April 2019**
+Exhibition Name: **Factual Enigma**
 Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 3 of my architectural images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
 
-**June 2019
-Exhibition Name: 'Thought Atlas'**
+**June 2019**
+Exhibition Name: **Thought Atlas**
 Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 
 3 architectural photographs were exhibited in an exhibition by independent artists and photographers. Curated by Heloise Bergman.
 
-**November 2020
-Exhibition Name: 'LIP Chronicles'**
+**November 2020**
+Exhibition Name: **LIP Chronicles**
 On-Line. 
 An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
-**October 26th 2021 to October 31st 2021 
-Exhibition Name: 'Strange Familiars'**
+**October 26th 2021 to October 31st 2021** 
+Exhibition Name: **Strange Familiars**
 
 This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
 4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
-**October 13th 2021 to November 19th 2021
-Exhibition Name: 'Sight Lines'**
+**October 13th 2021 to November 19th 2021**
+Exhibition Name: **Sight Lines**
 
 Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
 This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
@@ -78,7 +80,9 @@ The following image of mine, taken in August 2021, was shown in this exhibition.
 
 ![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
 
-**15th March to 27th March 2022 - Crouch End Exhibition**
+**15th March to 27th March 2022**
+
+**Crouch End Annual Exhibition**
 
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
 
@@ -90,7 +94,7 @@ I showed one image in this exhibition that celebrated life in Calderdale. Exhibi
 
 **20th June 2022 to 18th July 2022**
 
-** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
+** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition**
 ** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
 
 I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
@@ -100,7 +104,6 @@ I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided 
 **Exhibition Name: 'Open Mind'
 
 **Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
-** Opening Times: 11am to 4pm - Tuesday to Saturday.
 ** Gallery Website: www.OpenGallery.info
 
 **I showed a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
@@ -108,11 +111,11 @@ I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided 
 My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
 
 **5th February 2023 to 12th February 2023**
-**Exhibition Name: 'The Grid'**
+* Exhibition Name: **'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
 ** January to March 2023**
-* Exhibition Name: Jupiter Asset Management
+* Exhibition Name: **Jupiter Asset Management**
 * Location: Zigzag Building, Victoria Street, London.
 
 I took part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition was of abstract photography and two of my images were shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
@@ -123,14 +126,14 @@ This was the annual exhibition by the Crouch End Satellite Group of London Indep
 
 Other news (newest first):
 
-* April 2023 - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
+**April 2023** - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
 
-* April 2023 - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
+**April 2023** - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
 
-* March 2023 onwards - Installation in Brighton, East Sussex.  
+**March 2023 onwards** - Installation in Brighton, East Sussex.  
 In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
 
-* Hebden Bridge Open Studios 2022 Art Trail - July 2022.
+**July 2022** Hebden Bridge Open Studios 2022 Art Trail 
 
 Two of my 'Fraisthorpe' double exposure photographs, previously exhibited at Espacio Gallery in Shoreditch, London, appeared in the front windows of Valli Opticians in the centre of Hebden Bridge as part of the 2022 Art Trail. 
 
