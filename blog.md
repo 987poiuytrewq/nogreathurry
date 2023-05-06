@@ -94,7 +94,7 @@ I showed one image in this exhibition that celebrated life in Calderdale. Exhibi
 
 **20th June 2022 to 18th July 2022**
 
-** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition.
+** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition**
 ** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
 
 I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
@@ -104,7 +104,6 @@ I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided 
 **Exhibition Name: 'Open Mind'
 
 **Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
-** Opening Times: 11am to 4pm - Tuesday to Saturday.
 ** Gallery Website: www.OpenGallery.info
 
 **I showed a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
@@ -112,11 +111,11 @@ I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided 
 My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
 
 **5th February 2023 to 12th February 2023**
-**Exhibition Name: 'The Grid'**
+* Exhibition Name: **'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
 ** January to March 2023**
-* Exhibition Name: Jupiter Asset Management
+* Exhibition Name: **Jupiter Asset Management**
 * Location: Zigzag Building, Victoria Street, London.
 
 I took part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition was of abstract photography and two of my images were shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
@@ -127,14 +126,14 @@ This was the annual exhibition by the Crouch End Satellite Group of London Indep
 
 Other news (newest first):
 
-* April 2023 - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
+**April 2023** - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
 
-* April 2023 - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
+**April 2023** - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
 
-* March 2023 onwards - Installation in Brighton, East Sussex.  
+**March 2023 onwards** - Installation in Brighton, East Sussex.  
 In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
 
-* Hebden Bridge Open Studios 2022 Art Trail - July 2022.
+**July 2022** Hebden Bridge Open Studios 2022 Art Trail 
 
 Two of my 'Fraisthorpe' double exposure photographs, previously exhibited at Espacio Gallery in Shoreditch, London, appeared in the front windows of Valli Opticians in the centre of Hebden Bridge as part of the 2022 Art Trail. 
 
