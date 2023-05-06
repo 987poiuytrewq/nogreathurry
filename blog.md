@@ -31,12 +31,10 @@ I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
 
-Future Exhibitions
+**Future Exhibitions**
 
-**22nd May 2023 to 12th June 2023
-
-Location: Hebden Bridge Town Hall, St George's Street, HX7 7BY.
-I will be taking part in an exhibition with two other members of Mill Town Arts. I will be showing my 'Withens Clough Grid' photographs and a few others to be decided.
+**June 2023
+**Location: The Glasgow Gallery of Photography CIC, 57 Glassford Street, Glasgow, G1 1UG.
 
 **Past Exhibitions**
 
@@ -107,7 +105,7 @@ My photograph was featured on the cover of the exhibition catalogue that is avai
 **Exhibition Name: 'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
-* January to March 2023
+** January to March 2023
 * Exhibition Name: Jupiter Asset Management
 * Location: Zigzag Building, Victoria Street, London.
 
