@@ -13,7 +13,7 @@ Organisations:
 
 **Current Exhibitions and Installations**
 
-* Exhibition Name: Mill Town Arts 
+* Exhibition Name: 'Mill Town Arts' 
 * Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
 From 10th May 2023 to 12th June 2023
 
@@ -37,6 +37,7 @@ _______________________________________________________________
 
 **Future Exhibitions**
 
+** Exhibition Name: 'Portrait Exhibition'.
 **June 2023
 **Location: The Glasgow Gallery of Photography CIC, 57 Glassford Street, Glasgow, G1 1UG.
 
