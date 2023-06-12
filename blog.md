@@ -13,12 +13,12 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Current Exhibitions and Installations**
 
-* From 10th May 2023 to 12th June 2023
-* Exhibition Name: **Mill Town Arts** 
-* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
-
-I'm taking part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
-
+** Exhibition Name: **Portrait Exhibition**
+* 3rd to 30th June 2023
+*Location: The Glasgow Gallery of Photography CIC
+57 Glassford Street, Glasgow, G1 1UG.
+One black and photo of mine is appearing in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
+ 
 ______________________________________________________________
 
 From 1st March 2023 onwards.
@@ -29,19 +29,18 @@ I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this
 
 ______________________________________________________________
 
-March 2023 to June 2023
+March 2023 to July 2023
 **Picturing High Streets** 
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
 
 _______________________________________________________________
 
-**Future Exhibitions**
+**Future Events & Exhibitions**
 
-** Exhibition Name: **Portrait Exhibition**
-* June 2023
-*Location: The Glasgow Gallery of Photography CIC
-57 Glassford Street, Glasgow, G1 1UG.
+**Mill Town Arts, an Art Fair
+Location: Hebden Bridge Town Hall, St George's Street, Hebden Bridge, West Yorkshire, HX7 7BY.
+Date: 29th & 30th July 2023
 
 _______________________________________________________________
 **Past Exhibitions**
@@ -122,9 +121,16 @@ I took part in an in-house exhibition at the offices of Jupiter Asset Management
 
 **21st March 2023 to 2nd April 2023**
 
-This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs. 
+This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs.
 
-Other news (newest first):
+**From 10th May 2023 to 11th June 2023**
+
+* Exhibition Name: **Mill Town Arts** 
+* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
+
+I took part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
+
+**Other news (newest first):
 
 **April 2023** - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
 
