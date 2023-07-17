@@ -9,15 +9,15 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **A member of London Independent Photography, November 2018 to date.
 **A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
-**Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. 
+**Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
 **Current Exhibitions and Installations**
 
-** Exhibition Name: **Portrait Exhibition**
-* 3rd to 30th June 2023
-*Location: The Glasgow Gallery of Photography CIC
-57 Glassford Street, Glasgow, G1 1UG.
-One black and photo of mine is appearing in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
+27th July 2023 onwards
+* Exhibition Name: **Picturing Bradford**
+* Bradford City Centre 
+
+A set of 4 of my images that were submitted under the theme of #HighStreetHeroes have been selected to be shown in this major exhibition. 
  
 ______________________________________________________________
 
@@ -29,7 +29,7 @@ I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this
 
 ______________________________________________________________
 
-March 2023 to July 2023
+March 2023 to September 2023
 **Picturing High Streets** 
 
 My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
@@ -129,6 +129,12 @@ This was the annual exhibition by the Crouch End Satellite Group of London Indep
 * Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
 
 I took part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
+
+** Exhibition Name: **Portrait Exhibition**
+* 3rd to 30th June 2023 
+*Location: The Glasgow Gallery of Photography CIC
+57 Glassford Street, Glasgow, G1 1UG.
+One black and photo of mine appeared in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
 
 **Other news (newest first):
 
