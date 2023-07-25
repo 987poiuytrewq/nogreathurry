@@ -18,6 +18,17 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 * Bradford City Centre 
 
 A set of 4 of my images that were submitted under the theme of #HighStreetHeroes have been selected to be shown in this major exhibition. 
+
+_______________________________________________________________
+
+29th and 30th July 2023
+
+I am taking part in my first Arts Fair with 19 other artists, makers and photographers. It will be held in the Waterside Hall, Hebden Bridge Town Hall, St George's Street, Hebden Bridge, HX7 7BY. 
+
+I will have some exhibition prints, other images and greeting cards, for sale.
+
+Opening hours: Saturday, 10am to 5pm.
+               Sunday,   10am to 4pm.
  
 ______________________________________________________________
 
