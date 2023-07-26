@@ -1,5 +1,5 @@
 ---
-title: Reimaginings (5)
+title: 5. Reimaginings (5)
 date: 2023-01-11 15:39:00 Z
 image: "/uploads/Reimaginings%20Square.jpg"
 thumbnail_image: "/uploads/Reimaginings%20Square.jpg"
