@@ -1,5 +1,5 @@
 ---
-title: Con.Structural.Art 1
+title: Con.Structural.Art.1
 date: 2023-07-26 14:46:00 Z
 tags:
 - abstract architecture
@@ -14,4 +14,6 @@ image: "/uploads/Con.Structural.Art%201%20(Cheesegrater).jpg"
 thumbnail_image: "/uploads/Con.Structural.Art%201%20(Cheesegrater).jpg"
 ---
 
-The Charles Street Car Park, Sheffield, known as 'The Cheesegrater'. Architects: Allies & Morrison. Built 2009. Photo taken 2022. Fujifilm X100F.
+The Charles Street Car Park, Sheffield, known as 'The Cheesegrater'. 
+
+Architects: Allies & Morrison. Built 2009. Photo taken 2022. Fujifilm X100F.
