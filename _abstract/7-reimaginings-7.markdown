@@ -1,5 +1,5 @@
 ---
-title: 7. Reimaginings (7)
+title: Reimaginings 7
 date: 2023-07-26 14:40:00 Z
 categories:
 - Abstract
