@@ -5,4 +5,4 @@ image: "/uploads/1.%20Reimaginings%20(1).jpg"
 thumbnail_image: "/uploads/1.%20Reimaginings%20(1).jpg"
 ---
 
-1. Reimaginings (1)
+Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire. 2022 
