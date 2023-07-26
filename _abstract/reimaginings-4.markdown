@@ -1,5 +1,5 @@
 ---
-title: Reimaginings (4)
+title: 4. Reimaginings (4)
 date: 2022-12-12 21:33:00 Z
 image: "/uploads/Reimaginings%20Square%20Series.jpg"
 thumbnail_image: "/uploads/Reimaginings%20Square%20Series.jpg"
