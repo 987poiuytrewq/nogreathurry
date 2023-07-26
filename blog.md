@@ -13,9 +13,9 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Current Exhibitions and Installations**
 
-27th July 2023 onwards
+28th July 2023 to 3rd September 2023
 * Exhibition Name: **Picturing Bradford**
-* Bradford City Centre 
+* Outdoor Exhibition in Bradford City Centre 
 
 A set of 4 of my images that were submitted under the theme of #HighStreetHeroes have been selected to be shown in this major exhibition. 
 
