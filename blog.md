@@ -11,50 +11,66 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 **A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 **Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
-**Current Exhibitions and Installations**
+**Exhibitions and Installations in 2023**
 
-28th July 2023 to 3rd September 2023
-* Exhibition Name: **Picturing Bradford**
-* Outdoor Exhibition in Bradford City Centre 
+** January to October 2023**
+* Exhibition Name: **Jupiter Asset Management**
+* Location: Zigzag Building, Victoria Street, London.
 
-A set of 4 of my images that were submitted under the theme of #HighStreetHeroes have been selected to be shown in this major exhibition. 
+I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
 
-_______________________________________________________________
-
-29th and 30th July 2023
-
-I am taking part in my first Arts Fair with 19 other artists, makers and photographers. It will be held in the Waterside Hall, Hebden Bridge Town Hall, St George's Street, Hebden Bridge, HX7 7BY. 
-
-I will have some exhibition prints, other images and greeting cards, for sale.
-
-Opening hours: Saturday, 10am to 5pm.
-               Sunday,   10am to 4pm.
- 
-______________________________________________________________
-
-From 1st March 2023 onwards.
+**From 1st March 2023 onwards**
 * Exhibition Name: **Reimaginings**
 * Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
-______________________________________________________________
+**21st March 2023 to 2nd April 2023**
 
-March 2023 to September 2023
-**Picturing High Streets** 
+This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs.
 
-My 'Something Special' image of a closed-up shop, you can see it on my Flickr page and @robin.maurice.barr on Instagram, was shown in the Photography Quarter outside the Photographers' Gallery in Central London. It is also appearing elsewhere in England, including Bradford, Middlesborough and Norwich.
+**From 10th May 2023 to 11th June 2023**
 
+* Exhibition Name: **Mill Town Arts** 
+* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
+
+I took part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
+
+** Exhibition Name: **Portrait Exhibition**
+* 3rd to 30th June 2023 
+*Location: The Glasgow Gallery of Photography CIC
+57 Glassford Street, Glasgow, G1 1UG.
+One black and photo of mine appeared in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
+
+
+**28th July 2023 to 3rd September 2023**
+* Exhibition Name: **Picturing Bradford**
+* Outdoor Exhibition in Bradford City Centre 
+
+A set of 4 of my images that were submitted under the theme of #HighStreetHeroes were selected to be shown in this major exhibition. 
+
+_______________________________________________________________
+
+**29th and 30th July 2023**
+
+**Mill Town Arts, an Art Fair
+
+Location: Hebden Bridge Town Hall, St George's Street, Hebden Bridge, West Yorkshire, HX7 7BY.
+
+I took part in my first Arts Fair with 19 other artists, makers and photographers. It will be held in the Waterside Hall, Hebden Bridge Town Hall, St George's Street, Hebden Bridge, HX7 7BY. 
+
+I had some exhibition prints, other images and greeting cards, for sale.
 _______________________________________________________________
 
 **Future Events & Exhibitions**
 
-**Mill Town Arts, an Art Fair
-Location: Hebden Bridge Town Hall, St George's Street, Hebden Bridge, West Yorkshire, HX7 7BY.
-Date: 29th & 30th July 2023
+**Todmorden Open Studios
+Location: Todmorden College
+
+Date: 24th, 25th & 26th November 2023
 
 _______________________________________________________________
-**Past Exhibitions**
+**Exhibitions prior to 2023**
 
 **April 2019**
 Exhibition Name: **Factual Enigma**
@@ -124,30 +140,10 @@ My photograph was featured on the cover of the exhibition catalogue that is avai
 * Exhibition Name: **'The Grid'**
 This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
 
-** January to March 2023**
-* Exhibition Name: **Jupiter Asset Management**
-* Location: Zigzag Building, Victoria Street, London.
-
-I took part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition was of abstract photography and two of my images were shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
-
-**21st March 2023 to 2nd April 2023**
-
-This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs.
-
-**From 10th May 2023 to 11th June 2023**
-
-* Exhibition Name: **Mill Town Arts** 
-* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
-
-I took part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
-
-** Exhibition Name: **Portrait Exhibition**
-* 3rd to 30th June 2023 
-*Location: The Glasgow Gallery of Photography CIC
-57 Glassford Street, Glasgow, G1 1UG.
-One black and photo of mine appeared in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
 
 **Other news (newest first):
+
+**September 2023** - Two of my photographs appear in Issue 55 of FLIP Magazine under the theme 'Urban'. FLIP is the magazine of London Independent Photography.
 
 **April 2023** - Three of my square format architectural images have been published in the 2022-2023 'European Chinese Photographic Art Yearbook' alongside photographs by several other Chinese and European photographers. 
 
