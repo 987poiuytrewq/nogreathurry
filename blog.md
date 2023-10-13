@@ -13,9 +13,9 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Exhibitions and Installations**
 
+Current Solo Exhibition
 
-Solo Exhibition
-2023 (Continuing) - 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
+2023 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
 Forthcoming Group Exhibitions:
 
@@ -41,45 +41,13 @@ Past exhibitions (Group, unless stated otherwise):
 2021 - 'Strange Familiars' - Central London Group, London Independent Photography - Espacio Gallery, Shoreditch, London.
 2021 - (Solo Exhibition) 'Sight Lines' - Nathan's Barbers, Hebden Bridge.
 2021 - Virtual Exhibition - London Independent Photography's 33rd annual exhibition. 
+2020 - 'LIP Chronicles' - London Independent Photography's 32nd annual exhibition. 
+2019 - 'Thought Atlas' - Espacio Gallery, Shoreditch, London.
+2019 - 'Factual Enigma' - Espacio Gallery, Shoreditch, London.
 
+**Other news (newest first): 
 
-
-
-
-_______________________________________________________________
-**Exhibitions prior to 2023**
-
-**April 2019**
-Exhibition Name: **Factual Enigma**
-Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
-3 of my architectural images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Krystina Stimakovits.
-
-**June 2019**
-Exhibition Name: **Thought Atlas**
-Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
-
-3 architectural photographs were exhibited in an exhibition by independent artists and photographers. Curated by Heloise Bergman.
-
-**November 2020**
-Exhibition Name: **LIP Chronicles**
-On-Line. 
-An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
-
-
-
-
-
-2021 - Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
-
-
-
-
-My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
-
-
-
-
-**Other news (newest first):
+**October 2023 onwards - The Modernist Bookshop and Gallery in Port Street, in Manchester's Northern Quarter, started stocking my abstract architecture greeting cards from the end of that month.
 
 **September 2023** - Two of my photographs appear in Issue 55 of FLIP Magazine under the theme 'Urban'. FLIP is the magazine of London Independent Photography.
 
@@ -88,11 +56,7 @@ My photograph was featured on the cover of the exhibition catalogue that is avai
 **April 2023** - An image of mine was published in issue 54 of fLIP, the London Independent Photography quarterly publication, under the theme 'Awareness'.
 
 **March 2023 onwards** - Installation in Brighton, East Sussex.  
-In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023. 
-
-**July 2022** Hebden Bridge Open Studios 2022 Art Trail 
-
-Two of my 'Fraisthorpe' double exposure photographs, previously exhibited at Espacio Gallery in Shoreditch, London, appeared in the front windows of Valli Opticians in the centre of Hebden Bridge as part of the 2022 Art Trail. 
+In 2022 I received a commission to take site specific photographs of a Mansion Block in Brighton. The first 15 photographs were hung in their newly renovated communal areas in March 2023.
 
 * In August 2021 I was interviewed by my friend Heather Martin for her new series of 'Artists' Tales' podcasts, launched in November 2021.  See www.artiststales.net/. I am in series 1, episode 2.
 
