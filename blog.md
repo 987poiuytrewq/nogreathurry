@@ -23,7 +23,7 @@ Forthcoming Group Exhibitions:
 2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden
 2023 - November 24th to 26th - Todmorden Open Studios - Todmorden
 
-Past Group exhibitions:
+Past exhibitions (Group, unless stated otherwise):
 
 2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
 2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
@@ -34,17 +34,14 @@ Past Group exhibitions:
 2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
 2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
-
-Solo Exhibition
-2023 - (Continuing) - 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
-
-Past Group Exhibitions:
-
 2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
 2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
 2022 - 'Open Mind' - Open Gallery, Halifax.
 2021 - 'Strange Familiars' - Central London Group, London Independent Photography - Espacio Gallery, Shoreditch, London.
+2021 - (Solo Exhibition) 'Sight Lines' - Nathan's Barbers, Hebden Bridge.
+2021 - Virtual Exhibition - London Independent Photography's 33rd annual exhibition. 
+
 
 
 
@@ -70,15 +67,10 @@ An image of mine, taken since lockdown, was shown in this exhibition and publish
 
 
 
-**October 13th 2021 to November 19th 2021**
-Exhibition Name: **Sight Lines**
 
-Exhibition held at Nathan's Barbers, 8 New Road, Hebden Bridge, West Yorkshire, HX7 8AD. 
-This was my first solo exhibition, showcasing some of my architectural images. Hosted by 'Xpresso Arts, Random Acts of Culture'.
 
-**November to 31st December 2021**
-Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
-The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
+2021 - Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
+
 
 
 
