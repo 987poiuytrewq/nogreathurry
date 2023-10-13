@@ -11,13 +11,21 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 **A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
 **Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
-**Exhibitions and Installations in 2023**
+**Exhibitions and Installations**
 
-** January to October 2023**
-* Exhibition Name: **Jupiter Asset Management**
-* Location: Zigzag Building, Victoria Street, London.
+Forthcoming Group Exhibitions:
 
-I am taking part in an in-house exhibition at the offices of Jupiter Asset Management in Victoria, London. The exhibition is of abstract photography and two of my images are being shown alongside work of 9 other photographers. The exhibition was curated by J Nash of Sullen Riot Curation.
+2023 - Opening October 20th - Illuminate - Ginger Works, Leeds
+2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden
+
+Past Group exhibitions:
+
+2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
+2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
+2023 - 'Picturing High Streets' - London, Norwich, Middlesbrough, Bradford.
+2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
+2023 - Crouch End Group, London Independent Photography 
+
 
 **From 1st March 2023 onwards**
 * Exhibition Name: **Reimaginings**
@@ -29,12 +37,7 @@ I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this
 
 This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs.
 
-**From 10th May 2023 to 11th June 2023**
 
-* Exhibition Name: **Mill Town Arts** 
-* Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
-
-I took part in an exhibition with the two other artist founders of Mill Town Arts, a diverse group of creatives working in and out of the valley. I am exhibiting 12 photos on several themes. 
 
 ** Exhibition Name: **Portrait Exhibition**
 * 3rd to 30th June 2023 
