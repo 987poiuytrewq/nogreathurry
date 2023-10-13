@@ -23,9 +23,11 @@ Past Group exhibitions:
 2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
 2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
 2023 - 'Picturing High Streets' - London, Norwich, Middlesbrough, Bradford.
+2023 - 'Portrait Exhibition' - The Glasgow Gallery of Photography CIC, Glasgow. 
 2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
-2023 - Annual Exhibition, Crouch End Group, London Independent Photography. Hornsey Library, London.
+2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
+
 
 
 **From 1st March 2023 onwards**
@@ -34,9 +36,7 @@ Past Group exhibitions:
 
 I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
 
-**21st March 2023 to 2nd April 2023**
 
-This was the annual exhibition by the Crouch End Satellite Group of London Independent Photography. It was held at a favourite location of mine, The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited four Saul Leiter inspired photographs.
 
 
 
