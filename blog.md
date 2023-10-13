@@ -41,7 +41,7 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2023 - 'Mill Town Arts Art Fair' - Hebden Bridge Town Hall, Yorkshire.
 
-2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
+2023 - 'Mill Town Arts Exhibition' - Hebden Bridge Town Hall, Yorkshire.
 
 2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 
