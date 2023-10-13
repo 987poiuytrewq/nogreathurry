@@ -13,6 +13,10 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Exhibitions and Installations**
 
+
+Solo Exhibition
+2023 (Continuing) - 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
+
 Forthcoming Group Exhibitions:
 
 2023 - Opening October 20th - Illuminate - Ginger Works, Leeds
@@ -40,7 +44,7 @@ Past Group Exhibitions:
 2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
 2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
 2022 - 'Open Mind' - Open Gallery, Halifax.
-
+2021 - 'Strange Familiars' - Central London Group, London Independent Photography - Espacio Gallery, Shoreditch, London.
 
 
 
@@ -64,11 +68,7 @@ Exhibition Name: **LIP Chronicles**
 On-Line. 
 An image of mine, taken since lockdown, was shown in this exhibition and published in the 'zine of the same name.
 
-**October 26th 2021 to October 31st 2021** 
-Exhibition Name: **Strange Familiars**
 
-This was held at Espacio Gallery, 159 Bethnal Green Road, London, E2 7DG.
-4 of my in-camera double exposure images were exhibited in an exhibition by the Central London Satellite group of London Independent Photography. Curated by Jenny Nash.
 
 **October 13th 2021 to November 19th 2021**
 Exhibition Name: **Sight Lines**
@@ -80,10 +80,6 @@ This was my first solo exhibition, showcasing some of my architectural images. H
 Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
 The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
 
-2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
-2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
-2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
-2022 - 'Open Mind' - Open Gallery, Halifax.
 
 
 My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
