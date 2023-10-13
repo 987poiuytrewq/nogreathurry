@@ -17,6 +17,7 @@ Forthcoming Group Exhibitions:
 
 2023 - Opening October 20th - Illuminate - Ginger Works, Leeds
 2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden
+2023 - November 24th to 26th - Todmorden Open Studios - Todmorden
 
 Past Group exhibitions:
 
@@ -40,30 +41,12 @@ I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this
 
 
 
-** Exhibition Name: **Portrait Exhibition**
-* 3rd to 30th June 2023 
-*Location: The Glasgow Gallery of Photography CIC
-57 Glassford Street, Glasgow, G1 1UG.
-One black and photo of mine appeared in this exhibition. It is of my partner, Andy, taken at Robin Hood Gardens, Poplar, East London.
 
 
-**28th July 2023 to 3rd September 2023**
-* Exhibition Name: **Picturing Bradford**
-* Outdoor Exhibition in Bradford City Centre 
 
-A set of 4 of my images that were submitted under the theme of #HighStreetHeroes were selected to be shown in this major exhibition. 
 
-_______________________________________________________________
 
-**29th and 30th July 2023**
 
-**Mill Town Arts, an Art Fair
-
-Location: Hebden Bridge Town Hall, St George's Street, Hebden Bridge, West Yorkshire, HX7 7BY.
-
-I took part in my first Arts Fair with 19 other artists, makers and photographers. It will be held in the Waterside Hall, Hebden Bridge Town Hall, St George's Street, Hebden Bridge, HX7 7BY. 
-
-I had some exhibition prints, other images and greeting cards, for sale.
 _______________________________________________________________
 
 **Future Events & Exhibitions**
