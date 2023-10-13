@@ -7,47 +7,69 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Organisations**
 
-**A member of London Independent Photography, November 2018 to date.
-**A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
-**Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
+A member of London Independent Photography, November 2018 to date.
+
+A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+
+Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
 **Exhibitions and Installations**
 
-Current Solo Exhibition
+**Current Solo Exhibition**
 
 2023 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
-Forthcoming Group Exhibitions:
+**Forthcoming Group Exhibitions**
 
-2023 - Opening October 20th - Illuminate - Ginger Works, Leeds
-2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden
-2023 - November 24th to 26th - Todmorden Open Studios - Todmorden
+2023 - Opening October 20th - Illuminate - Ginger Works, Leeds.
 
-Past exhibitions (Group, unless stated otherwise):
+2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden.
+
+2023 - November 24th to 26th - Todmorden Open Studios - Todmorden.
+
+**Past exhibitions (Group, unless stated otherwise)**:
 
 2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
+
 2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
+
 2023 - 'Picturing High Streets' - London, Norwich, Middlesbrough, Bradford.
+
 2023 - 'Hebden Bridge Open Studios Art Trail', 3 shopfronts in Hebden Bridge.
+
 2023 - 'Portrait Exhibition' - The Glasgow Gallery of Photography CIC, Glasgow. 
+
 2023 - 'Mill Town Arts Art Fair' - Hebden Bridge Town Hall, Yorkshire.
+
 2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
+
 2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
+
 2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
+
 2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
+
 2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
+
 2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
+
 2022 - 'Open Mind' - Open Gallery, Halifax.
+
 2021 - 'Strange Familiars' - Central London Group, London Independent Photography - Espacio Gallery, Shoreditch, London.
+
 2021 - (Solo Exhibition) 'Sight Lines' - Nathan's Barbers, Hebden Bridge.
+
 2021 - Virtual Exhibition - London Independent Photography's 33rd annual exhibition. 
+
 2020 - 'LIP Chronicles' - London Independent Photography's 32nd annual exhibition. 
+
 2019 - 'Thought Atlas' - Espacio Gallery, Shoreditch, London.
+
 2019 - 'Factual Enigma' - Espacio Gallery, Shoreditch, London.
 
-**Other news (newest first): 
+**Other news** (newest first): 
 
-**October 2023 onwards - The Modernist Bookshop and Gallery in Port Street, in Manchester's Northern Quarter, started stocking my abstract architecture greeting cards from the end of that month.
+**October 2023 onwards** - The Modernist Bookshop and Gallery in Port Street, in Manchester's Northern Quarter, started stocking my abstract architecture greeting cards from the end of that month.
 
 **September 2023** - Two of my photographs appear in Issue 55 of FLIP Magazine under the theme 'Urban'. FLIP is the magazine of London Independent Photography.
 
