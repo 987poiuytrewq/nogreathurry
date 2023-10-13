@@ -24,7 +24,8 @@ Past Group exhibitions:
 2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
 2023 - 'Picturing High Streets' - London, Norwich, Middlesbrough, Bradford.
 2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
-2023 - Crouch End Group, London Independent Photography 
+2023 - Annual Exhibition, Crouch End Group, London Independent Photography. Hornsey Library, London.
+2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
 
 
 **From 1st March 2023 onwards**
