@@ -24,38 +24,26 @@ Past Group exhibitions:
 2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
 2023 - 'Picturing Bradford' - Locations around Kirkgate, Bradford.
 2023 - 'Picturing High Streets' - London, Norwich, Middlesbrough, Bradford.
+2023 - 'Hebden Bridge Open Studios Art Trail', 3 shopfronts in Hebden Bridge.
 2023 - 'Portrait Exhibition' - The Glasgow Gallery of Photography CIC, Glasgow. 
 2023 - 'Mill Town Arts Art Fair' - Hebden Bridge Town Hall, Yorkshire.
 2023 - 'Mill Town Arts' - Hebden Bridge Town Hall, Yorkshire.
 2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
 
+Solo Exhibition
+2023 - (Continuing) - 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
+Past Group Exhibitions:
 
-**From 1st March 2023 onwards**
-* Exhibition Name: **Reimaginings**
-* Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
-
-I am exhibiting 6 photographs from my 'Reimaginings' series of abstracts in this solo exhibition. These can be viewed during the barber's opening times.
-
-
-
-
-
+2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
+2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
+2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
+2022 - 'Open Mind' - Open Gallery, Halifax.
 
 
 
 
-
-
-_______________________________________________________________
-
-**Future Events & Exhibitions**
-
-**Todmorden Open Studios
-Location: Todmorden College
-
-Date: 24th, 25th & 26th November 2023
 
 _______________________________________________________________
 **Exhibitions prior to 2023**
@@ -92,41 +80,15 @@ This was my first solo exhibition, showcasing some of my architectural images. H
 Virtual Exhibition: London Independent Photography's 33rd annual exhibition.  
 The following image of mine, taken in August 2021, was shown in this exhibition. See: https://www.lipchronicles.org/action#
 
-![Window Cleaner thumbnail.jpg](/uploads/Window%20Cleaner%20thumbnail.jpg)
+2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
+2022 - 'Calderdale Tales' - Artsmill Gallery, Hebden Bridge.
+2022 - 'Hebden Bridge Open Studios Town Hall Exhibition' Hebden Bridge.
+2022 - 'Open Mind' - Open Gallery, Halifax.
 
-**15th March to 27th March 2022**
-
-**Crouch End Annual Exhibition**
-
-This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I exhibited 4 square architectural images.
-
-**2nd June to 26th June 2022**
-** Exhibition Name: Calderdale Tales.
-** Location: Artsmill Gallery, 46 Market Street, Hebden Bridge, West Yorkshire, HX7 6AA.
-
-I showed one image in this exhibition that celebrated life in Calderdale. Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
-
-**20th June 2022 to 18th July 2022**
-
-** Exhibition Name: Hebden Bridge Open Studios 2022, Town Hall Exhibition**
-** Location: Hebden Bridge Town Hall, St. George's Street, Hebden Bridge, HX7 7BY.
-
-I showed a 50x50 cm abstract image in this exhibition. The exhibition coincided with Hebden Bridge Open Studios that was held across town between 1st and 3rd July 2022. 85 local artists and makers opened their studios and/or showed work in the Town Hall Exhibition. 
-
-**18th August to 3rd September 2022**
-
-**Exhibition Name: 'Open Mind'
-
-**Location: 'Open Gallery' 18, Rawson Street, Halifax, West Yorkshire, HX1 1NH.
-** Gallery Website: www.OpenGallery.info
-
-**I showed a new photograph called 'Fraisthorpe Revisited'.  Exhibits included individual artwork by other local creatives and artisans in this part of West Yorkshire.
 
 My photograph was featured on the cover of the exhibition catalogue that is available to purchase on line.
 
-**5th February 2023 to 12th February 2023**
-* Exhibition Name: **'The Grid'**
-This was held by the Crouch End Satellite Group of London Independent Photography at The Original Gallery, Hornsey Library, Haringey Park, Crouch End, London, N8 9JA. I showed four framed and one unframed photos.The photographs were taken in Withens Clough, Cragg Vale, near to where I live.  
+
 
 
 **Other news (newest first):
