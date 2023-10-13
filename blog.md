@@ -21,9 +21,9 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Forthcoming Group Exhibitions**
 
-2023 - Opening October 20th - Illuminate - Ginger Works, Leeds.
+2023 - October 20th to 3rd November - 'Illuminate' - Ginger Works, Leeds.
 
-2023 - Opening October 22nd - Nan Moor's Group Show - Todmorden.
+2023 - October 22nd onwards - Nan Moor's Group Show - Todmorden.
 
 2023 - November 24th to 26th - Todmorden Open Studios - Todmorden.
 
