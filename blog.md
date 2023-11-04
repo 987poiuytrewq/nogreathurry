@@ -15,19 +15,15 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Exhibitions and Installations**
 
-**Current Solo Exhibition**
-
-2023 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
-
 **Forthcoming Group Exhibitions**
-
-2023 - October 20th to 3rd November - 'Illuminate' - Ginger Works, Leeds.
 
 2023 - October 22nd onwards - Nan Moor's Group Show - Todmorden.
 
 2023 - November 24th to 26th - Todmorden Open Studios - Todmorden.
 
 **Past exhibitions (Group, unless stated otherwise)**:
+
+2023 - 'Illuminate' - Ginger Works, Leeds.
 
 2023 - 'A Different View' - Jupiter Asset Finance, Victoria, London.
 
@@ -46,6 +42,8 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 2023 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 
 2023 - 'Grid Project',  Crouch End Group, London Independent Photography. Hornsey Library, London.
+
+2023 - (Solo Exhibition) 'Regimaginings' - Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW.
 
 2022 - 'Annual Exhibition', Crouch End Group, London Independent Photography. Hornsey Library, London.
 
