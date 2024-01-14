@@ -17,11 +17,17 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Forthcoming Group Exhibitions**
 
-2023 - October 22nd onwards - Nan Moor's Group Show - Todmorden.
+2024
 
-2023 - November 24th to 26th - Todmorden Open Studios - Todmorden.
+* January 8th to 28th. Mill Town Arts Group Show, Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY.
+
+* January 23rd to 28th. Annual Exhibition, London Independent Photography. Location: Espacio Gallery, 159 Bethnal Green Road, Shoreditch, London, E2 7DG.
 
 **Past exhibitions (Group, unless stated otherwise)**:
+
+2023 - 'Nan Moor's Group Show' - Todmorden, West Yorkshire.
+
+2023 - 'Todmorden Open Studios' - Todmorden, West Yorkshire.
 
 2023 - 'Illuminate' - Ginger Works, Leeds.
 
