@@ -19,11 +19,13 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2024
 
-* January 8th to 28th. Mill Town Arts Group Show, Location: Hebden Bridge Town Hall, St George's Street, West Yorkshire, HX7 7BY. I am showing three photographs.
-
-* January 23rd to 28th. Annual Exhibition, London Independent Photography. Location: Espacio Gallery, 159 Bethnal Green Road, Shoreditch, London, E2 7DG. I am showing two photographs. 
+* 24th February to 19th March - '24 Photography'- I am one of 24 photographers who will be showing a photo in an exhibition in Soho Square, London, W1. More details to follow.
 
 **Past exhibitions (Group, unless stated otherwise)**:
+
+2024 - (January) London Independent Photography Annual Exhibition - Espacio Gallery, Shoreditch, London.
+
+2024 - (January) 'Mill Town Arts Group Show - Hebden Bridge, West Yorkshire
 
 2023 - 'Nan Moor's Group Show' - Todmorden, West Yorkshire.
 
