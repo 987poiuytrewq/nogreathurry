@@ -7,9 +7,11 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Organisations**
 
-A member of London Independent Photography, November 2018 to date.
+A member of London Independent Photography, (https://www.londonphotography.org.uk) November 2018 to date.
 
 A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+
+A member of 24 Photography (http://www.24photography.org), December 2023 to date.
 
 Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
