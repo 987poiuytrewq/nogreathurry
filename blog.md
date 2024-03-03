@@ -15,11 +15,13 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Exhibitions and Installations**
 
-**Forthcoming Group Exhibitions**
-
 2024
 
-* 24th February to 19th March - '24 Photography'- I am one of 24 photographers who will be showing a photo in an exhibition in Soho Square, London, W1. More details to follow.
+* Northern Quarter, Manchester - 8th March to 27th April 2024. 'Illuminate Architecture & Light'. I am one of 25 photographers taking part in this exhibition that was originally shown in Leeds in 2023. Location: 'The Modernist' bookshop and gallery, 58 Port Street, Manchester, M1 2EQ. (Closed on Sundays and Mondays).
+
+* Central London - 24th February to 19th March 2024 - '24 Photography'- I am one of 24 photographers who will be showing a photo in an exhibition in Soho Square, London, W1. The photographs are exhibited on plinths in the flower beds surrounding the small Tudor style central building. 
+
+* Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
 **Past exhibitions (Group, unless stated otherwise)**:
 
