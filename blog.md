@@ -7,11 +7,13 @@ I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020
 
 **Organisations**
 
-A member of London Independent Photography, (https://www.londonphotography.org.uk) November 2018 to date.
+Associate Member of Hebden Bridge Open Studios
 
-A member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+Member of London Independent Photography, (https://www.londonphotography.org.uk) November 2018 to date.
 
-A member of 24 Photography (http://www.24photography.org), December 2023 to date.
+Member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
+
+Member of 24 Photography (http://www.24photography.org), December 2023 to date.
 
 Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
@@ -19,13 +21,15 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2024
 
-* Northern Quarter, Manchester - 8th March to 27th April 2024. 'Illuminate Architecture & Light'. I am one of 25 photographers taking part in this exhibition that was originally shown in Leeds in 2023. Location: 'The Modernist' bookshop and gallery, 58 Port Street, Manchester, M1 2EQ. (Closed on Sundays and Mondays).
-
-* Central London - 24th February to 19th March 2024 - '24 Photography'- I am one of 24 photographers who will be showing a photo in an exhibition in Soho Square, London, W1. The photographs are exhibited on plinths in the flower beds surrounding the small Tudor style central building. 
+* Hebden Bridge Open Studios Window Trail. June/July 2024. My photos are in the window venue 2, the Co-op in Market Street. 
 
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
 **Past exhibitions (Group, unless stated otherwise)**:
+
+2024 - (March/April)- Northern Quarter, Manchester - 'Illuminate Architecture & Light'. - 'The Modernist' bookshop and gallery, 58 Port Street, Manchester, M1 2EQ. 
+
+2024 (February/March) - '24 Photography'- I am one of 24 photographers who showed a photo in an exhibition in Soho Square, London, W1. The photographs were exhibited on plinths in the flower beds surrounding the small Tudor style central building. 
 
 2024 - (January) London Independent Photography Annual Exhibition - Espacio Gallery, Shoreditch, London.
 
