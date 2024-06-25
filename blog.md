@@ -3,17 +3,16 @@ title: blog
 layout: blog
 ---
 
-I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020.
+I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020. 
 
-**Organisations**
+I currently have my square architectural photography greeting cards on sale at the Royal Institute of British Architects' Bookshop (RIBA) in London and The Modernist Bookshop and Gallery in Manchester's Northern Quarter.
 
-Associate Member of Hebden Bridge Open Studios
+**I am a member of the following organisations:
 
-Member of London Independent Photography, (https://www.londonphotography.org.uk) November 2018 to date.
-
-Member of Lenses of Croydon/Croydon Photography Forum, April 2020 to date.
-
-Member of 24 Photography (http://www.24photography.org), December 2023 to date.
+* Hebden Bridge Open Studios
+* London Independent Photography (www.londonphotography.org.uk)
+* Lenses of Croydon/Croydon Photography Forum
+* 24 Photography (http://www.24photography.org)
 
 Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
