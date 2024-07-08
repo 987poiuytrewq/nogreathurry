@@ -20,11 +20,12 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2024
 
-* Hebden Bridge Open Studios Window Trail. June/July 2024. My photos are in the window venue 2, the Co-op in Market Street. 
-
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
 **Past exhibitions (Group, unless stated otherwise)**:
+
+
+2024 (June/July) Hebden Bridge Open Studios Window Trail. Six of my photos were in the window of venue 2, the Co-op in Market Street. 
 
 2024 - (March/April)- Northern Quarter, Manchester - 'Illuminate Architecture & Light'. - 'The Modernist' bookshop and gallery, 58 Port Street, Manchester, M1 2EQ. 
 
