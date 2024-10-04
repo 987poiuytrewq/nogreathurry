@@ -26,6 +26,7 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Past exhibitions (Group, unless stated otherwise)**:
 
+2024 (September) GS Artists, 217 High Street, Swansea, Wales. 'Illuminate Architecture & Light' (previously in Leeds and Manchester).
 
 2024 (June/July) Hebden Bridge Open Studios Window Trail. Six of my photos were in the window of venue 2, the Co-op in Market Street. 
 
