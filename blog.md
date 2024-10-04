@@ -20,10 +20,13 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2024
 
+* Brighton, West Sussex - October 2024 onwards. '2024 Photo Fringe'. https://2024.photofringe.org/exhibitions/lip-london-and-beyond-common-ground-and-different-ground/view. I am showing three photos, on line, with the London Independent Photography 'London and Beyond' Satellite Group. 
+
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
 **Past exhibitions (Group, unless stated otherwise)**:
 
+2024 (September) GS Artists, 217 High Street, Swansea, Wales. 'Illuminate Architecture & Light' (previously in Leeds and Manchester).
 
 2024 (June/July) Hebden Bridge Open Studios Window Trail. Six of my photos were in the window of venue 2, the Co-op in Market Street. 
 
