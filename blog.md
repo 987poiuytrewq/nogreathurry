@@ -20,6 +20,8 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2024
 
+* 'Christmas Exhibition' at The Apothecary Gallery, Thornton, Bradford, West Yorkshire. 7th December 2024 to Saturday 21st December 2024 (Check gallery for opening times). I am showing two framed photographs and I will have prints and cards on sale. Preview: Friday 6th December 2024 (6-9pm).
+
 * Brighton, West Sussex - October 2024 onwards. '2024 Photo Fringe'. https://2024.photofringe.org/exhibitions/lip-london-and-beyond-common-ground-and-different-ground/view. I am showing three photos, on line, with the London Independent Photography 'London and Beyond' Satellite Group. 
 
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
