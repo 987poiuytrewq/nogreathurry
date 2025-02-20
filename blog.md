@@ -18,15 +18,21 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Exhibitions and Installations**
 
-2024
+2025
 
-* 'Christmas Exhibition' at The Apothecary Gallery, Thornton, Bradford, West Yorkshire. 7th December 2024 to Saturday 21st December 2024 (Check gallery for opening times). I am showing two framed photographs and I will have prints and cards on sale. Preview: Friday 6th December 2024 (6-9pm).
-
-* Brighton, West Sussex - October 2024 onwards. '2024 Photo Fringe'. https://2024.photofringe.org/exhibitions/lip-london-and-beyond-common-ground-and-different-ground/view. I am showing three photos, on line, with the London Independent Photography 'London and Beyond' Satellite Group. 
+* (February/March) - '24 Photography'- I am one of 24 photographers who showed a photo in an exhibition in Soho Square, London, W1. The photographs are being exhibited on plinths in the flower beds surrounding the small Tudor style central building. Opens Saturday, 22nd February 2025 and runs until 19th March 2025.
 
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
-**Past exhibitions (Group, unless stated otherwise)**:
+**Past exhibitions (Group, unless stated otherwise)**
+
+2025 (January) Annual Exhibition with other members of London Independent Photography at Espacio Gallery, Shoreditch, London.
+
+2025 (January/February) Mill Town Arts at Hebden Bridge Town Hall. 
+
+2024 (December) 'Christmas Exhibition' at The Apothecary Gallery, Thornton, Bradford, West Yorkshire. 
+
+2024 (October onwards) '2024 Photo Fringe'. https://2024.photofringe.org/exhibitions/lip-london-and-beyond-common-ground-and-different-ground/view. 
 
 2024 (September) GS Artists, 217 High Street, Swansea, Wales. 'Illuminate Architecture & Light' (previously in Leeds and Manchester).
 
