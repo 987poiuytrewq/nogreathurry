@@ -13,7 +13,7 @@ tags:
 - buildings
 - con.structural.art
 - Architectural Photography
-image: "/uploads/Canopy%20abstract%20website%201000.jpg"
+image: "/uploads/Canopy%20abstract%20website%20300.jpg"
 thumbnail_image: "/uploads/Canopy%20abstract%20website%20300.jpg"
 ---
 
