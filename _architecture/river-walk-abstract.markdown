@@ -17,8 +17,8 @@ tags:
 - buildings
 - Canon
 - 550D
-image: "/uploads/River%20Walk%20for%20Website%201200%20px%2072%20dpi-dd33c6.jpg"
-thumbnail_image: "/uploads/River%20Walk%20for%20Website%20300%20px%2072%20dpi.jpg"
+image: "/uploads/River%20Walk%20for%20Website%201200%20px%2072%20dpi-b13fc3.jpg"
+thumbnail_image: "/uploads/River%20Walk%20for%20Website%20300%20px%2072%20dpi-884628.jpg"
 ---
 
 Architects: Stanton Williams. 
