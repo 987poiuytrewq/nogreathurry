@@ -1,5 +1,5 @@
 ---
-title: Con.Structural.Art.1
+title: The 'Cheesegrater', Sheffield.
 date: 2023-07-26 14:46:00 Z
 tags:
 - abstract architecture

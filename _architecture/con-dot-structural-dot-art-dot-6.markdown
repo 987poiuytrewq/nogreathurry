@@ -1,5 +1,5 @@
 ---
-title: Con.Structural.Art.6
+title: Two, New Ludgate, London.
 date: 2023-07-26 18:09:00 Z
 tags:
 - New Ludgate
