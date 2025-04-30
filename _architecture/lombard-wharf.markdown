@@ -12,8 +12,8 @@ tags:
 - London
 - London Architecture
 - Robin Maurice Barr
-image: "/uploads/River%20Walk%20for%20Website%201200%20px%2072%20dpi.jpg"
-thumbnail_image: "/uploads/River%20Walk%20for%20Website%20300%20px%2072%20dpi-0cf965.jpg"
+image: "/uploads/Lombard%20Wharf%20for%20Website%201200%20px%2072%20dpi-2.jpg"
+thumbnail_image: "/uploads/Lombard%20Wharf%20for%20Website%20300%20px%2072%20dpi-2.jpg"
 ---
 
 Architects: Patel Taylor. 
