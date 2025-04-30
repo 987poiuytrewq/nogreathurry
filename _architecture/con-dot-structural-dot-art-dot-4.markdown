@@ -1,5 +1,5 @@
 ---
-title: Con.Structural.Art.4
+title: Queensgate Market, Huddersfield (2)
 date: 2023-07-26 15:10:00 Z
 tags:
 - "@nogreathurry"
