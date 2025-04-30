@@ -1,5 +1,5 @@
 ---
-title: Lombard Wharf, London
+title: Lombard Wharf, London. 2019
 date: 2019-10-28 15:23:00 Z
 tags:
 - con.structural.art
@@ -12,8 +12,8 @@ tags:
 - London
 - London Architecture
 - Robin Maurice Barr
-image: "/uploads/RW-3.jpg"
-thumbnail_image: "/uploads/RW-3-6019cd.jpg"
+image: "/uploads/River%20Walk%20for%20Website%201200%20px%2072%20dpi.jpg"
+thumbnail_image: "/uploads/River%20Walk%20for%20Website%20300%20px%2072%20dpi-0cf965.jpg"
 ---
 
-Looking up at Lombard Wharf, a residential development in South London.  Architects: Patel Taylor. Photo taken October 2019.
+Architects: Patel Taylor. 
