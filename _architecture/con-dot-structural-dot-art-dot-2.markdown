@@ -1,5 +1,5 @@
 ---
-title: Former Midland Bank, Liverpool. 2022
+title: Former Midland Bank, Liverpool.
 date: 2023-07-26 14:53:00 Z
 tags:
 - Liverpool
