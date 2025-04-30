@@ -1,5 +1,5 @@
 ---
-title: River Walk Apartments, London
+title: River Walk Apartments, London. 2018
 date: 2018-08-14 14:38:00 Z
 tags:
 - Riverwalk
@@ -17,8 +17,8 @@ tags:
 - buildings
 - Canon
 - 550D
-image: "/uploads/RiverWalk%201000.jpg"
-thumbnail_image: "/uploads/RiverWalk%20300.jpg"
+image: "/uploads/River%20Walk%20for%20Website%201200%20px%2072%20dpi-dd33c6.jpg"
+thumbnail_image: "/uploads/River%20Walk%20for%20Website%20300%20px%2072%20dpi.jpg"
 ---
 
-Another photo of River Walk Apartments, Westminster.  Architects: Stanton Williams. Photo taken 2018. Canon 550D.
+Architects: Stanton Williams. 
