@@ -1,6 +1,9 @@
 ---
 title: Elim Pentecostal, Halifax
 date: 2021-04-18 11:24:00 Z
+categories:
+- Abstract Architecture
+- Architectural Photography
 tags:
 - Canon
 - 550D
