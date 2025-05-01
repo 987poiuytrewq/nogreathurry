@@ -1,6 +1,9 @@
 ---
 title: 20 Fenchurch Street, London
 date: 2016-08-17 12:18:00 Z
+categories:
+- Architectural Photography
+- Abstract Architecture
 tags:
 - Rafael Viñoly
 - Viñoly
