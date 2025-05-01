@@ -1,6 +1,9 @@
 ---
 title: 20 Fenchurch Street, London
 date: 2016-08-17 12:18:00 Z
+categories:
+- Architectural Photography
+- Abstract Architecture
 tags:
 - Rafael Viñoly
 - Viñoly
@@ -22,4 +25,6 @@ thumbnail_image: "/uploads/WT1_thumbnail.jpg"
 layout: photo
 ---
 
-20 Fenchurch Street, London. The 'Walkie Talkie' building, London. Completed 2014. Architect Rafael Viñoly. Photo August 2016. Canon 550D.
+20 Fenchurch Street, London. The 'Walkie Talkie' building, London. Completed 2014. Architect Rafael Viñoly. 
+
+Photo taken in August 2016.

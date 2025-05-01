@@ -1,6 +1,9 @@
 ---
-title: Two, New Ludgate, London.
+title: Two, New Ludgate, London. 2016
 date: 2023-07-26 18:09:00 Z
+categories:
+- Abstract Architecture
+- Architectural Photography
 tags:
 - New Ludgate
 - London
@@ -15,6 +18,8 @@ image: "/uploads/Con.Structural.Art%205%20(Ludgate).jpg"
 thumbnail_image: "/uploads/Con.Structural.Art%205%20(Ludgate).jpg"
 ---
 
-Detail of Two New Ludgate, a colourful office building with adjustable glass shutters opposite the Old Bailey in London. Architects: Sauerbruch Hutton, 2015.
+Detail of Two New Ludgate, a colourful office building with adjustable glass shutters opposite the Old Bailey in London. 
+
+Architects: Sauerbruch Hutton, 2015.
 
 Photo taken in 2016.

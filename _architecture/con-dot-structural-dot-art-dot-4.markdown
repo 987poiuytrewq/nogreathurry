@@ -1,6 +1,9 @@
 ---
 title: Queensgate Market, Huddersfield (2)
 date: 2023-07-26 15:10:00 Z
+categories:
+- Abstract Architecture
+- Architectural Photography
 tags:
 - "@nogreathurry"
 - No Great Hurry
