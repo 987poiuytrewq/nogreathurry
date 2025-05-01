@@ -20,6 +20,8 @@ thumbnail_image: "/uploads/BT1_thumbnail.jpg"
 layout: photo
 ---
 
-Arena Tower, built 2016, Baltimore Wharf, London in London's Docklands. Architects: Skidmore Owings & Merrill,'SOM'. 
+Arena Tower, built 2016, Baltimore Wharf, London in London's Docklands. 
+
+Architects: Skidmore Owings & Merrill,'SOM'. 
 
 Photo taken in October 2016. 
