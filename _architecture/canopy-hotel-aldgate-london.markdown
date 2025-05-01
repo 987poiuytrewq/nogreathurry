@@ -1,5 +1,5 @@
 ---
-title: Canopy Hotel, Aldgate, London
+title: Canopy Hotel, Aldgate, London. 2021
 date: 2022-04-25 15:14:00 Z
 categories:
 - Abstract Architecture
