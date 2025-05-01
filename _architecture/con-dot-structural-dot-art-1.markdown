@@ -21,4 +21,4 @@ The Charles Street Car Park, Sheffield, known as 'The Cheesegrater'.
 
 Architects: Allies & Morrison. Built 2009. 
 
-Photo taken 2022. Fujifilm X100F.
+Photo taken 2022. 
