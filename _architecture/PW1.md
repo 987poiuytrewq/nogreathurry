@@ -1,6 +1,9 @@
 ---
 title: New Providence Wharf, London
 date: 2016-11-22 12:18:00 Z
+categories:
+- Architectural Photography
+- Abstract Architecture
 tags:
 - Skidmore Owings & Merrill
 - SOM
@@ -18,4 +21,6 @@ thumbnail_image: "/uploads/PW1_thumbnail.jpg"
 layout: photo
 ---
 
-Providence Tower and Ontario Tower at New Providence Wharf in East London - Architects: Skidmore Owings & Merrill. Photograph taken November 2016. Canon 550D.
+Providence Tower and Ontario Tower at New Providence Wharf in East London - Architects: Skidmore Owings & Merrill. 
+
+Photograph taken November 2016. 
