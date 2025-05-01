@@ -1,5 +1,5 @@
 ---
-title: New Providence Wharf, London
+title: New Providence Wharf, London. 2016
 date: 2016-11-22 12:18:00 Z
 categories:
 - Architectural Photography
