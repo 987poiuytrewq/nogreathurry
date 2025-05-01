@@ -19,6 +19,6 @@ Florin Court, London.
 
 Home of a fictional Belgian detective.
 
-Built in 1936 by Guy Morgan and Partners[1] who worked until 1927 for Edwin Lutyens.
+Built in 1936 by Guy Morgan and Partners who worked until 1927 for Edwin Lutyens.
 
 Photo taken in September 2018.
