@@ -21,6 +21,8 @@ thumbnail_image: "/uploads/PW1_thumbnail.jpg"
 layout: photo
 ---
 
-Providence Tower and Ontario Tower at New Providence Wharf in East London - Architects: Skidmore Owings & Merrill. 
+Providence Tower and Ontario Tower at New Providence Wharf in East London.
+
+Architects: Skidmore Owings & Merrill (SOM)
 
 Photograph taken November 2016. 
