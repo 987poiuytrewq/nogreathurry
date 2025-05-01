@@ -3,6 +3,7 @@ title: No. 1, Croydon. 2018
 date: 2022-04-25 15:05:00 Z
 categories:
 - Architectural Photography
+- Abstract Architecture
 tags:
 - Robin Maurice Barr
 - Croydon
