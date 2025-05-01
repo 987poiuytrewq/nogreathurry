@@ -1,6 +1,9 @@
 ---
 title: Arena Tower, London
 date: 2016-10-20 12:18:00 Z
+categories:
+- Abstract Architecture
+- Architectural Photography
 tags:
 - SOM
 - Skidmore Owings & Merrill
