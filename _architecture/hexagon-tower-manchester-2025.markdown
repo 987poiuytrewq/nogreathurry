@@ -12,8 +12,8 @@ tags:
 - Architectural Photography
 - abstract architecture
 - Hexagon
-image: "/uploads/Hexagon%20Tower%20for%20Website%201200%20px%2072%20dpi.jpg"
-thumbnail_image: "/uploads/Hexagon%20Tower%20for%20Website%20300%20px%2072%20dpi.jpg"
+image: "/uploads/Hexagon%20Tower%20for%20Website%201200%20px%2072%20dpi-2.jpg"
+thumbnail_image: "/uploads/Hexagon%20Tower%20for%20Website%20300%20px%2072%20dpi-2.jpg"
 ---
 
 Detail shot of Manchester's Hexagon Tower. Completed in 1973 for ICI. 
