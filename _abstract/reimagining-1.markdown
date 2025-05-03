@@ -13,8 +13,8 @@ tags:
 - X100F
 - texture
 - Robin Maurice Barr
-image: "/uploads/Orange%20Tod-2-5b73d7.jpg"
-thumbnail_image: "/uploads/Orange%20Tod-2.jpg"
+image: "/uploads/Reimaginings%203%201200%20px%2072%20dpi.jpg"
+thumbnail_image: "/uploads/Reimaginings%203%20300%20px%2072%20dpi.jpg"
 ---
 
 Much overpainted and weathered graffiti, with random marks, before the next layers. Seen on a wall in West Yorkshire. November 2022
