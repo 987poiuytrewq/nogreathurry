@@ -1,5 +1,5 @@
 ---
-title: 20 Fenchurch Street, London
+title: 20 Fenchurch Street, London. 2016
 date: 2016-08-17 12:18:00 Z
 categories:
 - Architectural Photography
@@ -20,8 +20,8 @@ tags:
 - Canon
 - 550D
 - Architecture
-image: "/uploads/WT1.jpg"
-thumbnail_image: "/uploads/WT1_thumbnail.jpg"
+image: "/uploads/Walkie%20Talkie%20for%20Website%201200%20px%2072%20dpi-2.jpg"
+thumbnail_image: "/uploads/Walkie%20Talkie%20for%20Website%20300%20px%2072%20dpi-2.jpg"
 layout: photo
 ---
 
