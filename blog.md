@@ -5,7 +5,11 @@ layout: blog
 
 I live in Cragg Vale, West Yorkshire and moved there from Essex in November 2020. 
 
-I currently have my square architectural photography greeting cards on sale at the Royal Institute of British Architects' Bookshop (RIBA) in London and The Modernist Bookshop and Gallery in Manchester's Northern Quarter.
+I am proud to have been awarded 'Photographer of the month, October 2025' by #Flickr, the popular on-line photography community.  The theme was abstracts, and an album of 43 of my architectural photos taken over the years is being featured by them on social media.
+ 
+Flickr is the largest, most influential community of photographers in the world.
+
+I currently have my square architectural photography greeting cards the Modernist Bookshop and Gallery in Manchester's Northern Quarter.
 
 **I am a member of the following organisations:
 
