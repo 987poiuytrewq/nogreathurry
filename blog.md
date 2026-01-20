@@ -22,9 +22,13 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 **Exhibitions and Installations**
 
-2025
+2026
 
-* (February/March) - '24 Photography'- I am one of 24 photographers who showed a photo in an exhibition in Soho Square, London, W1. The photographs are being exhibited on plinths in the flower beds surrounding the small Tudor style central building. Opens Saturday, 22nd February 2025 and runs until 19th March 2025.
+* February 7th to 28th February. Exhibition theme: Triptych/Diptych. I'll be showing one of my diptych images at The Glasgow Gallery of Photography, Glasgow, Scotland.
+
+* February 21st to 16th March. '24 Photography'- I am one of 24 photographers who will be showing a photo in an annual exhibition in Soho Square, London, W1. The photographs are being exhibited on plinths in the flower beds surrounding the small Tudor style central building. 
+
+2025
 
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
 
@@ -32,7 +36,9 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 
 2025 (January) Annual Exhibition with other members of London Independent Photography at Espacio Gallery, Shoreditch, London.
 
-2025 (January/February) Mill Town Arts at Hebden Bridge Town Hall. 
+2025 (January/February) Mill Town Arts at Hebden Bridge Town Hall.
+
+2025 (February/March) - '24 Photography'- I was one of 24 photographers who showed a photo in an exhibition in Soho Square, London, W1. 
 
 2024 (December) 'Christmas Exhibition' at The Apothecary Gallery, Thornton, Bradford, West Yorkshire. 
 
