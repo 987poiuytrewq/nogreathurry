@@ -15,12 +15,21 @@ I currently have my square architectural photography greeting cards the Modernis
 
 * Hebden Bridge Open Studios
 * London Independent Photography (www.londonphotography.org.uk)
-* Lenses of Croydon/Croydon Photography Forum
 * 24 Photography (http://www.24photography.org)
 
 Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created in 2023.
 
 **Exhibitions and Installations**
+
+Forthcoming exhibitions:
+
+2026
+
+15th to 24th October - I will be exhibiting in a group exhibition at Brighton Art Space, Regent Street, Brighton with 'London and Beyond', a satellite group of London Independent Photography. The exhibition is part of Brighton Photo Fringe.
+
+26th October to 2nd November- I will be exhibiting in a group exhibition at Photofusion, Brixton, London, with 'Central London LIP', a satellite group of London Independent Photography. The exhibition is called 'disCONNECTed'. 
+
+**Past exhibitions (Group, unless stated otherwise)**
 
 2026
 
@@ -31,8 +40,6 @@ Joint Founder of Mill Town Arts, based in Hebden Bridge, West Yorkshire. Created
 2025
 
 * Hebden Bridge - February 2024 onwards. Solo Exhibition originally shown at the same location in 2023. 'Regimaginings', a set of 6 colourful photographs of faded and weathered graffiti - Location: Nathan's Barbers, Cheetham Street, Hebden Bridge, West Yorkshire, HX7 8EW. (Closed Sundays and Mondays).
-
-**Past exhibitions (Group, unless stated otherwise)**
 
 2025 (January) Annual Exhibition with other members of London Independent Photography at Espacio Gallery, Shoreditch, London.
 
